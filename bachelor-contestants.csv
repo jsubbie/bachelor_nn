@@ -1,4 +1,4 @@
-Name,Age,Occupation,Hometown ,State or Country,Height (in),ElimWeek,Season,Weight,Brunette
+Name,Age,Occupation,Hometown,State or Country,Height (in),ElimWeek,Season,Weight,Hair Color
 Amanda Marsh,23,Event Planner,Chanute,Kansas,65,1,1,91,2
 Trista Rehn,29,Miami Heat Dancer,Miami,Florida,66,6,1,104,1
 Shannon Oliver,24,Financial Management Consultant,Dallas,Texas,64,5,1,156,2
@@ -90,7 +90,7 @@ Tara Durr,24,Realtor,St. Augustine,Florida,61,1,9,175,1
 Rosella Fratto,27,Make-up artist,Chicago,Illinois,60,1,9,111,1
 Rita Ghazal,29,Policy advisor,Richmond,Virginia,62,1,9,91,3
 Renee Snell,30,Broadcast marketer,Baltimore,Maryland,63,1,9,147,3
-Meri Barr,27,Attorney,Biloxi,Mississippi ,60,1,9,142,2
+Meri Barr,27,Attorney,Biloxi,Mississippi,60,1,9,142,2
 Laura Morgan,29,Dolphin trainer,San Diego,California,61,1,9,115,1
 Jessica Horner,25,Assistant buyer,Charlotte,North Carolina,61,1,9,127,4
 Heather Sneed,34,Registered nurse,Aliquippa,Pennsylvania,62,1,9,157,1
