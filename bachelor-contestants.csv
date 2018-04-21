@@ -8,7 +8,7 @@ Christina,28,Attorney,Bonita,California,65,3,1,147,4
 LaNease Adams,23,Actress,Los Angeles,California,65,3,1,155,1
 Rhonda,28,Commercial Real Estate Agent,Woodward,Oklahoma,66,3,1,132,4
 Alexa,27,Special Ed. Teacher,Beverly Hills,California,65,2,1,165,4
-Amy,28,Production Coordinator,New York,New York,65,2,1,162,3
+Amy,28,Production Coordinator,New York,Nevada,65,2,1,162,3
 Angela,25,Hooters Waitress,Avondale,Arizona,65,2,1,110,1
 Angelique,27,Actress,Burbank,California,67,2,1,139,1
 Katie,23,Power Tool Sales Rep.,Malden,Massachusetts,66,2,1,133,1
@@ -22,7 +22,7 @@ Jill,31,Retail Manager,Chicago,Illinois,66,1,1,103,3
 Kristina,27,Advertising Executive,Los Angeles,California,63,1,1,151,3
 Lisa,29,Attorney,Dallas,Texas,62,1,1,97,1
 Paula,24,Insurance Representative,Swansea,Massachusetts,66,1,1,98,4
-Rachel,29,6th Grade Teacher,Eastchester,New York,63,1,1,140,4
+Rachel,29,6th Grade Teacher,Eastchester,Nevada,63,1,1,140,4
 Wendi,26,Technology Specialist,Dallas,Texas,61,1,1,133,4
 Helene Eksterowicz,27,School Psychologist,Gloucester,New Jersey,67,1,2,113,3
 Brooke Smith,22,College Student,Albertville,Alabama,64,7,2,151,4
@@ -33,12 +33,12 @@ Heather Crawford,30,Flight Attendant,Dallas,Texas,61,4,2,146,4
 Christi,23,Assistant Financial Advisor,Boise,Idaho,67,3,2,161,3
 Heather,24,Marriage Therapy Trainee,Walnut Creek,California,66,3,2,151,3
 Kyla,22,Airline Supervisor,Midvale,Utah,60,3,2,116,4
-Shannon,26,Graphic Artist,Long Island,New York,67,3,2,130,3
+Shannon,26,Graphic Artist,Long Island,Nevada,67,3,2,130,3
 Dana,24,Radio Sales,Beverly Hills,California,64,2,2,91,4
 Erin,25,Publications Quality Control,Westchester,Pennsylvania,61,2,2,156,1
 Suzanne,33,Flight Attendant,Redondo Beach,California,60,2,2,165,2
 Frances,30,Strategic Planning Analyst,San Francisco,California,63,2,2,126,2
-Anindita,27,Attorney,New York,New York,61,2,2,110,1
+Anindita,27,Attorney,New York,Nevada,61,2,2,110,1
 Amber,26,Psychologist,Chapel Hill,North Carolina,61,1,2,143,4
 Camille,29,Actress,Los Angeles,California,62,1,2,101,2
 Cari,29,3rd Grade Teacher,Granite City,Illinois,64,1,2,103,1
@@ -65,14 +65,14 @@ Anne-Catherine LabbÌ©,27,Model/make-up artist,Quebec City,Quebec,65,2,5,122,3
 Amber LaRoux,27,Consultant,Sunriver,Oregon,67,2,5,146,4
 Mandy Clemens,25,Professional soccer player,San Diego,California,65,2,5,176,1
 Kristy Romero,25,Student,Dearborn,Michigan,62,2,5,98,2
-Celeste Creel,24,Model/executive assistant,Ithaca,New York,68,2,5,150,2
+Celeste Creel,24,Model/executive assistant,Ithaca,Nevada,68,2,5,150,2
 Jenny Matthews,24,Retail manager,Canton,Michigan,65,2,5,132,1
 Dolores Farburg,26,Account manager,Madison,New Jersey,62,1,5,118,4
 Francine Jones,25,Retail manager,Houston,Texas,68,1,5,157,1
 DeShaun Warner,25,Account manager/sales,Phillipsburg,New Jersey,68,1,5,168,2
 Jessica Kyron,21,Student,Cincinnati,Ohio,60,1,5,146,2
 Holly Reeder,26,Bank representative,Tulsa,Oklahoma,61,1,5,145,1
-Rachel Clementi,26,Fashion public relations manager,Buffalo,New York,64,1,5,149,3
+Rachel Clementi,26,Fashion public relations manager,Buffalo,Nevada,64,1,5,149,3
 Kristin Clearwater,25,Singer,Sausalito,California,63,1,5,93,2
 Jennifer Wilson,24,Teacher,Pembroke Pines,Florida,64,1,9,120,4
 Sadie Murray,23,Publicist,Carlsbad,California,67,7,9,157,2
@@ -88,19 +88,19 @@ Kim Jackson,27,Interior designer,Newport Beach,California,65,2,9,121,1
 Ellen DeMaio,30,Realtor,New Haven,Connecticut,66,2,9,177,3
 Tara Durr,24,Realtor,St. Augustine,Florida,61,1,9,175,1
 Rosella Fratto,27,Make-up artist,Chicago,Illinois,60,1,9,111,1
-Rita Ghazal,29,Policy advisor,Richmond,VA,62,1,9,91,3
-Renee Snell,30,Broadcast marketer,Baltimore,MD,63,1,9,147,3
-Meri Barr,27,Attorney,Biloxi,MS,60,1,9,142,2
-Laura Morgan,29,Dolphin trainer,San Diego,CA,61,1,9,115,1
-Jessica Horner,25,Assistant buyer,Charlotte,NC,61,1,9,127,4
-Heather Sneed,34,Registered nurse,Aliquippa,PA,62,1,9,157,1
-Elyse Hammer,27,Physician,New York,NY,66,1,9,151,3
+Rita Ghazal,29,Policy advisor,Richmond,Virginia,62,1,9,91,3
+Renee Snell,30,Broadcast marketer,Baltimore,Maryland,63,1,9,147,3
+Meri Barr,27,Attorney,Biloxi,Mississippi ,60,1,9,142,2
+Laura Morgan,29,Dolphin trainer,San Diego,California,61,1,9,115,1
+Jessica Horner,25,Assistant buyer,Charlotte,North Carolina,61,1,9,127,4
+Heather Sneed,34,Registered nurse,Aliquippa,Pennsylvania,62,1,9,157,1
+Elyse Hammer,27,Physician,New York,Nevada,66,1,9,151,3
 Cosetta Blanca,25,Dancer,Rome,Italy,62,1,9,103,1
-Claudia Gismondi,22,Restaurateur,Boca Raton,FL,68,1,9,172,1
-Carissa Ilburg,25,Attorney,Cattaraugus,NY,63,1,9,109,2
-Britt (Bowe) Newton,28,Beer chemist,Columbus,OH,61,1,9,160,4
-Andrea Shirley,28,Hotel concierge,Cincinnati,OH,63,1,9,102,2
-April Jacobs,23,Model,Chicago,IL,62,1,9,132,2
+Claudia Gismondi,22,Restaurateur,Boca Raton,Florida,68,1,9,172,1
+Carissa Ilburg,25,Attorney,Cattaraugus,Nevada,63,1,9,109,2
+Britt (Bowe) Newton,28,Beer chemist,Columbus,Ohio,61,1,9,160,4
+Andrea Shirley,28,Hotel concierge,Cincinnati,Ohio,63,1,9,102,2
+April Jacobs,23,Model,Chicago,Illinois,62,1,9,132,2
 Tessa Horst,26,Social Worker,San Francisco,California,67,1,10,99,1
 Bevin Nicole Powers,28,Assistant,Palo Alto,California,68,8,10,110,2
 Danielle Imwalle,25,Graphic Designer,Bethel,Connecticut,63,7,10,130,3
@@ -108,27 +108,27 @@ Amber Alchalabi,23,Teacher,Sugar Land,Texas,60,6,10,147,3
 Stephanie Wilhite,23,Project Manager,Overland Park,Kansas,61,5,10,122,2
 Tina Wu,26,Medical student,Los Angeles,California,62,5,10,177,3
 Kate Brockhouse,24,Boutique owner,Ravenel,South Carolina,60,4,10,117,1
-Nicole Clary,26,Sales Manager,Charleston,SC,61,4,10,114,2
-Stephanie Tipper,27,Organ donor coordinator,Folly Beach,SC,62,4,10,146,4
-Amanda Hackney,26,Financial analyst,Dallas,TX,64,3,10,148,1
-Erin Parker,24,Financial analyst,Logansport,LA,61,3,10,159,3
+Nicole Clary,26,Sales Manager,Charleston,South Carolina,61,4,10,114,2
+Stephanie Tipper,27,Organ donor coordinator,Folly Beach,South Carolina,62,4,10,146,4
+Amanda Hackney,26,Financial analyst,Dallas,Texas,64,3,10,148,1
+Erin Parker,24,Financial analyst,Logansport,Louisiana,61,3,10,159,3
 Peyton Wright,24,Sorority recruiter,La Vergne,Tennessee,60,3,10,90,3
-Alexis Young,26,Attorney,Southlake,TX,68,2,10,101,1
-Susan Anderson,23,Boutique manager,The Woodlands,TX,68,2,10,101,4
-Tiffany Warren,28,Medical equipment sales rep,Boston,MA,66,2,10,123,2
-Blakeney Rowe,29,Radio sales,Birmingham,AL,68,1,10,111,3
-Candace DeCost,23,Waitress,Hilton Head Island,SC,66,1,10,133,2
-Catherine Warren,23,Former Miss Illinois,Lake Forest,IL,64,1,10,98,2
-Danielle Vallis,26,Attorney,Bronx,NY,61,1,10,123,3
-Jackie Topelli,23,Executive coordinator,Minneapolis,MN,65,1,10,121,1
-Jeanette Alvarez,27,Health care manager,Tampa,FL,60,1,10,148,1
-Jessica Devallo,32,Hedge fund analyst,New York,NY,62,1,10,154,4
-Linda Malek,33,Attorney,Cuyahoga Falls,OH,63,1,10,107,4
-Lindsay Smith,22,Student,Lawrence,KS,60,1,10,106,3
-Tiffany Forester,27,Real estate sales/development,St. Louis Park,MN,62,1,10,179,2
+Alexis Young,26,Attorney,Southlake,Texas,68,2,10,101,1
+Susan Anderson,23,Boutique manager,The Woodlands,Texas,68,2,10,101,4
+Tiffany Warren,28,Medical equipment sales rep,Boston,Massachusetts,66,2,10,123,2
+Blakeney Rowe,29,Radio sales,Birmingham,Alabama,68,1,10,111,3
+Candace DeCost,23,Waitress,Hilton Head Island,South Carolina,66,1,10,133,2
+Catherine Warren,23,Former Miss Illinois,Lake Forest,Illinois,64,1,10,98,2
+Danielle Vallis,26,Attorney,Bronx,Nevada,61,1,10,123,3
+Jackie Topelli,23,Executive coordinator,Minneapolis,Minnesota,65,1,10,121,1
+Jeanette Alvarez,27,Health care manager,Tampa,Florida,60,1,10,148,1
+Jessica Devallo,32,Hedge fund analyst,New York,Nevada,62,1,10,154,4
+Linda Malek,33,Attorney,Cuyahoga Falls,Ohio,63,1,10,107,4
+Lindsay Smith,22,Student,Lawrence,Kansas,60,1,10,106,3
+Tiffany Forester,27,Real estate sales/development,St. Louis Park,Minnesota,62,1,10,179,2
 Deanna Pappas,25,Realtor,Newnan,Georgia,62,8,11,143,1
 Jenni Croft,27,Phoenix SunsåÊCheerleader,Wichita,Kansas,62,8,11,115,4
-Bettina Bell,27,Realtor,Washington,D.C.,63,7,11,159,3
+Bettina Bell,27,Realtor,Washington,Washington D.C.,63,7,11,159,3
 Sheena Stewart,23,Internet marketing executive,Walnut Creek,California,62,6,11,91,1
 Hillary Reisinger,27,Registered nurse,Philadelphia,Pennsylvania,63,5,11,106,3
 Kristy Katzmann,29,Acupuncturist,Gurnee,Illinois,67,5,11,133,1
@@ -145,7 +145,7 @@ Jessica Kiss,27,News anchor,Lady Lake,Florida,61,1,11,170,3
 Juli Gilliam,24,Law student,Chicago,Illinois,61,1,11,154,3
 Kim Orville,31,Realtor,Woodbridge,Connecticut,68,1,11,151,1
 Lori Langley,33,Biology teacher,Annapolis,Maryland,60,1,11,175,1
-Melissa Buschel,28,Event planner,Westchester,New York,63,1,11,130,4
+Melissa Buschel,28,Event planner,Westchester,Nevada,63,1,11,130,4
 Morgan Becker,24,Graduate student,Tempe,Arizona,67,1,11,170,1
 Natalie Velasco,25,Law student,Duncanville,Texas,64,1,11,115,3
 Regina Doringa,31,Account representative,San Diego,California,68,1,11,168,1
@@ -155,7 +155,7 @@ Shayne Lamas,22,Actress,Malibu,California,63,1,12,93,1
 Chelsea Wanstrath,25,Pharmaceutical sales rep.,Durango,Colorado,67,8,12,124,2
 Amanda Rantuccio,27,Account Executive,Niceville,Florida,64,7,12,111,3
 Noelle Drake,26,Photographer,Loveland,Colorado,63,6,12,162,4
-Marshana Ritchie,27,Fashion designer,Brooklyn,New York,66,5,12,135,1
+Marshana Ritchie,27,Fashion designer,Brooklyn,Nevada,66,5,12,135,1
 Robin Canfield,22,Advertising coordinator,Holland,Michigan,67,5,12,145,3
 Ashlee Williss,22,Singer-songwriter,Jacksonville Beach,Florida,62,4,12,130,2
 Kelly Duncan,25,Medical sales rep.,Hollywood,California,61,4,12,160,4
@@ -165,10 +165,10 @@ Erin Storm,33,Hot-dog vendor,Venice,California,62,3,12,169,1
 Kristine Heffelfinger,33,Personal trainer,Dillsburg,Pennsylvania,65,3,12,93,4
 Carri Perrier,25,Church marketing rep.,Oklahoma City,Oklahoma,64,2,12,145,4
 Erin Harper,25,Event planner,Seattle,Washington,63,2,12,138,1
-Michelle P.,28,Administrative assistant,Syracuse,New York,66,2,12,152,1
+Michelle P.,28,Administrative assistant,Syracuse,Nevada,66,2,12,152,1
 Alyssa,24,Biology student,Boise,Idaho,61,1,12,111,1
 Amanda Petterman,26,Law student,LaFollette,Tennessee,60,1,12,91,3
-Denise,30,Attorney and formeråÊWhite HouseåÊaide,Washington,D.C,67,1,12,178,2
+Denise,30,Attorney and formeråÊWhite HouseåÊaide,Washington,Washington D.C.,67,1,12,178,2
 Devon,24,Makeup artist,Austin,Texas,62,1,12,104,2
 Lesley Geyer,23,Youth minister,Tampa,Florida,68,1,12,104,2
 Michele R.,33,Interior designer,Laguna Niguel,California,61,1,12,103,4
@@ -189,7 +189,7 @@ Erica DeSimone,25,Account Executive,Monroe,Connecticut,63,3,13,122,2
 Kari Fajen,27,Account Executive,Lee's Summit,Missouri,61,3,13,136,4
 Natalie Getz,27,Human Resources Recruiter,Morton,Illinois,64,3,13,98,3
 Raquel Medeiros,27,Medical Student,Recife,Pernambuco,62,2,13,90,3
-Sharon Staebell,32,Teacher,Batavia,New York,64,2,13,118,1
+Sharon Staebell,32,Teacher,Batavia,Nevada,64,2,13,118,1
 Lisa Gonzalez,28,Public Relations Associate,Boise,Idaho,62,2,13,157,3
 Ann Lueders,24,Flight Attendant,Phoenix,Arizona,63,1,13,90,2
 Dominique Carta,26,Medical Sales Rep.,Mt. Carmel,Pennsylvania,63,1,13,153,3
@@ -203,7 +203,7 @@ Stacia Mann,24,Single Mother & Charity Accountant,Orem,Utah,67,1,13,125,1
 Treasure Morgan,28,Single Mother and Nurse Practitioner,Salt Lake City,Utah,65,1,13,139,2
 Vienna Girardi,23,Marketing Representative,Geneva,Florida,60,1,14,157,1
 Tenley Molzahn,25,College Admissions,Newberg,Oregon,67,8,14,129,4
-Gia Allemand,26,Swimsuit Model,New York,New York,64,7,14,166,2
+Gia Allemand,26,Swimsuit Model,New York,Nevada,64,7,14,166,2
 Ali Fedotowsky,25,Advertising Account Manager,Williamstown,Massachusetts,63,6,14,131,3
 Corrie Adamson,23,Wardrobe Consultant,Kissimmee,Florida,60,5,14,129,4
 Ashleigh Hunt,25,Account Manager,North Potomac,Maryland,65,4,14,162,2
@@ -252,7 +252,7 @@ Cristy Caserta,30,Attorney,Davie,Florida,63,1,15,168,2
 Jill Ruskowski,28,Sales director,Frisco,Texas,64,1,15,134,1
 Lacey Garbelman,27,Insurance agent,Tampa,Florida,64,1,15,120,1
 Lauren Moore,26,High School Teacher,Culpeper,Virginia,65,1,15,156,4
-Lisa P.,27,Sales Consultant,Dix Hills,New York,63,1,15,172,3
+Lisa P.,27,Sales Consultant,Dix Hills,Nevada,63,1,15,172,3
 Rebecca,30,Esthetician,Mission Viejo,California,60,1,15,127,3
 Renee Halpin,28,Nanny,Palos Hills,Illinois,67,1,15,170,1
 Sarah Ledtke,25,Musical Theatre Performer,Saginaw,Michigan,61,1,15,133,3
@@ -262,7 +262,7 @@ Nicki Sterling,26,Dental hygienist,Hurst,Texas,63,9,16,148,3
 Kacie Boguskie,24,Administrative assistant,Clarksville,Tennessee,68,8,16,110,2
 Emily O'Brien,27,PhD Student,Chapel Hill,North Carolina,67,7,16,108,2
 Rachel Truehart,27,Fashion sales representative,Southampton,Massachusetts,68,7,16,121,4
-Jamie Otis,25,Registered nurse,Dryden,New York,66,6,16,111,3
+Jamie Otis,25,Registered nurse,Dryden,Nevada,66,6,16,111,3
 Casey Shteamer,26,Trading clerk,Leawood,Kansas,67,6,16,146,1
 Blakeley Jones,33,VIP cocktail waitress,Rutherfordton,North Carolina,63,6,16,119,1
 Jennifer Fritsch,28,Accountant,Cache,Oklahoma,62,5,16,119,1
@@ -280,7 +280,7 @@ Anna Snowball,25,Student,Detroit,Michigan,61,1,16,114,4
 Dianna Martinez,30,Nonprofit director,San Gabriel,California,67,1,16,160,2
 Holly Johnson,34,Pharmaceutical sales representative,Salyersville,Kentucky,60,1,16,109,1
 Lyndsie James,29,Internet entrepreneur,London,England,66,1,16,112,2
-Shira Astrof,35,Actress,Massapequa Park,New York,64,1,16,98,3
+Shira Astrof,35,Actress,Massapequa Park,Nevada,64,1,16,98,3
 Catherine Giudici,26,Graphic Designer,Seattle,Washington,64,1,17,104,1
 Lindsay Yenter,24,Substitute Teacher,Fort Bragg,North Carolina,64,10,17,116,2
 AshLee Frazier,32,Personal Organizer,Houston,Texas,66,9,17,154,4
@@ -354,7 +354,7 @@ Tracy Darakis,29,Fourth Grade Teacher,Wellington,Florida,61,3,19,171,4
 Trina Scherenberg,33,Special Education Teacher,Algonquin,Illinois,64,3,19,119,2
 Alissa Giambrone,24,Flight Attendant,Hamilton,New Jersey,61,2,19,97,4
 Jordan Branch,24,Student,Windsor,Colorado,63,2,19,126,2
-Kimberly Sherbach,28,Yoga Instructor,Wantagh,New York,66,2,19,106,4
+Kimberly Sherbach,28,Yoga Instructor,Wantagh,Nevada,66,2,19,106,4
 Tandra Steiner,30,Executive Assistant,Sandy,Utah,60,2,19,146,2
 Tara Eddings,26,Sport Fishing Enthusiast,Fort Lauderdale,Florida,68,2,19,119,4
 Amanda Goerlitz,24,Ballet Teacher,Lake in the Hills,Illinois,61,1,19,127,4
@@ -392,33 +392,33 @@ Laura Esselman,24,Account Executive,Louisville,Kentucky,60,1,20,174,3
 Lauren Russell,26,Math Teacher,Houston,Texas,60,1,20,160,3
 Maegan Miller,30,Cowgirl,Visalia,California,60,1,20,114,2
 Tiara Soleim,27,Chicken Enthusiast,Redmond,Washington,61,1,20,125,1
-Alexis,23,Aspiring Dolphin Trainer,Secaucus,NJ,66,5,21,146,3
-Angela,26,Model,Greenville,SC,67,1,21,93,1
-Astrid,26,Plastic Surgery Office Manager,Tampa,FL,67.5,4,21,133,3
-Briana,28,Surgical Unit Nurse,Salt Lake City,UT,64,1,21,116,1
-Brittany,26,Travel Nurse,Santa Monica,CA,62,3,21,168,1
-Christen,25,Wedding Videographer,Tulsa,OK,65,3,21,176,1
-Corinne,24,Business Owner,Miami,FL,61,8,21,174,2
-Danielle L.,27,Small Business Owner,Los Angeles,CA,65,6,21,94,3
-Danielle M.,31,Neonatal Nurse,Nashville,TN,70,7,21,178,1
-Dominique,25,Restaurant Server,Los Angeles,CA,64,3,21,122,3
-Liz,29,Doula,Las Vegas,NV,64,2,21,113,3
-Elizabeth,24,Marketing Manager,Dallas,TX,67,2,21,174,3
+Alexis,23,Aspiring Dolphin Trainer,Secaucus,New Jersey,66,5,21,146,3
+Angela,26,Model,Greenville,South Carolina,67,1,21,93,1
+Astrid,26,Plastic Surgery Office Manager,Tampa,Florida,67.5,4,21,133,3
+Briana,28,Surgical Unit Nurse,Salt Lake City,Utah,64,1,21,116,1
+Brittany,26,Travel Nurse,Santa Monica,California,62,3,21,168,1
+Christen,25,Wedding Videographer,Tulsa,Oklahoma,65,3,21,176,1
+Corinne,24,Business Owner,Miami,Florida,61,8,21,174,2
+Danielle L.,27,Small Business Owner,Los Angeles,California,65,6,21,94,3
+Danielle M.,31,Neonatal Nurse,Nashville,Tennessee,70,7,21,178,1
+Dominique,25,Restaurant Server,Los Angeles,California,64,3,21,122,3
+Liz,29,Doula,Las Vegas,Nevada,64,2,21,113,3
+Elizabeth,24,Marketing Manager,Dallas,Texas,67,2,21,174,3
 Hailey,23,Photographer,Vancouver,British Columbia,67,2,21,137,2
-Ida Marie,23,Sales Manager,Harlingen,TX,68,1,21,142,1
-Jaimi,28,Chef,New Orleans,LA,62,5,21,98,4
-Jasmine B.,25,Flight Attendant,Tacoma,WA,62.5,1,21,137,4
-Jasmine G.,29,Pro Basketball Dancer,San Francisco,CA,67,6,21,108,3
-Josephine,24,Registered Nurse,Santa Cruz,CA,67.75,5,21,113,4
-Kristina,24,Dental Hygienist,Lexington,KY,62,7,21,99,1
-Lacey,25,Digital Marketing Manager,Manhattan,NY,63,2,21,139,4
-Lauren,30,Law School Graduate,Naples,FL,67,1,21,96,1
-Michelle,24,Food Truck Owner,Los Angeles,CA,61,1,21,177,3
-Olivia,25,Apparel Sales Representative,Anchorage,AK,67,1,21,147,2
-Rachel,31,Attorney,Dallas,TX,64,1,21,157,1
-Raven,25,Fashion Boutique Owner,Hoxie,AR,66,1,21,180,3
-Sarah,26,Grade School Teacher,Newport Beach,CA,65,4,21,92,4
-Susannah,26,Account Manager,San Diego,CA,66,1,21,98,2
-Taylor,23,Mental Health Counselor,Seattle,WA,64,5,21,118,2
+Ida Marie,23,Sales Manager,Harlingen,Texas,68,1,21,142,1
+Jaimi,28,Chef,New Orleans,Louisiana,62,5,21,98,4
+Jasmine B.,25,Flight Attendant,Tacoma,Washington,62.5,1,21,137,4
+Jasmine G.,29,Pro Basketball Dancer,San Francisco,California,67,6,21,108,3
+Josephine,24,Registered Nurse,Santa Cruz,California,67.75,5,21,113,4
+Kristina,24,Dental Hygienist,Lexington,Kentucky,62,7,21,99,1
+Lacey,25,Digital Marketing Manager,Manhattan,Nevada,63,2,21,139,4
+Lauren,30,Law School Graduate,Naples,Florida,67,1,21,96,1
+Michelle,24,Food Truck Owner,Los Angeles,California,61,1,21,177,3
+Olivia,25,Apparel Sales Representative,Anchorage,Alaska,67,1,21,147,2
+Rachel,31,Attorney,Dallas,Texas,64,1,21,157,1
+Raven,25,Fashion Boutique Owner,Hoxie,Arkansas,66,1,21,180,3
+Sarah,26,Grade School Teacher,Newport Beach,California,65,4,21,92,4
+Susannah,26,Account Manager,San Diego,California,66,1,21,98,2
+Taylor,23,Mental Health Counselor,Seattle,Washington,64,5,21,118,2
 Vanessa,29,Special Education Teacher,Montreal,Quebec,63.5,1,21,147,2
-Whitney,25,Pilates Instructor,Chanhassen,MN,68,6,21,180,2
+Whitney,25,Pilates Instructor,Chanhassen,Minnesota,68,6,21,180,2
