@@ -1,268 +1,268 @@
-Name,Age,Occupation,Hometown,State or Country,ElimWeek,Season,Height,Weight,Hair,EyeColor,Pushups,Pullups
-Billy,28,Firefighter,Hermosa Beach, California,1,1,78,218,4,2,99,78
-Brian K.,31,Breast Implant Sales,San Francisco, California,1,1,73,177,4,2,91,149
-Chris,35,V.P. of Auto Parts Company,Sugarloaf, Pennsylvania,1,1,78,225,4,3,93,116
-Duane,28,Flight Instructor,Chisago City, Minnesota,1,1,70,167,2,1,98,88
-Eric,33,Commercial Pilot,St. Louis, Missouri,1,1,69,181,1,2,98,90
-Gregg H.,34,Marble Company Owner,Freehold, New Jersey,1,1,69,203,4,3,35,128
-Matt,42,Gym Owner,Marina Del Rey, California,1,1,72,164,1,5,75,58
-Paul,26,Telecommunications,Honolulu, Hawaii,1,1,67,198,2,2,32,77
-Peter,25,Construction Business Owner,Long Island, New York,1,1,79,186,2,2,91,132
-Wayne,37,Commercial Pilot,Sacramento, California,1,1,73,244,4,5,85,113
-Ian McKee,29,Equity Research Sales,New York, New York,2,2,71,177,4,3,90,62
-Matthew Hickl,28,Pharmaceutical Sales Rep,Friendswood, Texas,8,2,74,168,3,1,97,150
-Chad,31,Pharmaceutical Sales Rep,Buffalo, New York,6,2,69,177,4,4,70,68
-Lanny,26,Stallion and Breeding Manager,Aubrey, Texas,5,2,67,215,4,2,89,79
-Brad,29,Pharmaceutical Sales Rep,Grand Rapids, Michigan,4,2,70,188,4,2,40,141
-Ryan M.,30,Financial Advisor,Santa Barbara, California,4,2,74,171,4,3,41,96
-Sean,31,CPA,Wall, New Jersey,4,2,76,240,4,1,62,147
-Rick,29,Business Manager,San Diego, California,3,2,71,217,1,4,54,73
-Ryan R.,29,Sales/Marketing,Wynola, California,3,2,70,191,4,1,47,127
-Todd,36,Options Trader,San Francisco, California,3,2,73,232,2,5,63,134
-Damon,28,Arena Football Player,Cardiff, California,2,2,73,219,4,1,80,72
-Eliot,25,Options Trader,Mountain View, California,2,2,78,204,3,3,100,106
-Harold Hersh,29,Professional Hockey Player,Rock Island, Illinois,2,2,74,197,3,5,94,63
-Marcus,26,Personal Trainer,Los Angeles, California,2,2,76,216,3,4,37,147
-Robert,32,Alliance Development,El Segundo, California,2,2,77,166,1,1,40,112
-Aaron,32,Title and Escrow Sales,Sacramento, California,1,2,74,203,2,3,78,142
-Andy Chang,33,Dentist,Dallas, Texas,1,2,73,233,3,2,38,116
-Anselm Clinard,32,Art Designer,Venice, California,1,2,78,210,3,2,40,128
-Brian,31,Attorney,Quincy, Massachusetts,1,2,74,204,4,1,77,108
-Chris,31,Accountant,Boston, Massachusetts,1,2,78,197,3,3,45,100
-Cory Higgins,24,Small Business Owner,Long Beach Island, New Jersey,1,2,69,169,3,5,86,67
-Jeff O'Quinn,30,Pharmaceutical Sales Rep,Macon, Georgia,1,2,75,219,1,3,90,114
-Justin,25,Professional Baseball Player,Orlando, Florida,1,2,73,245,3,2,93,103
-Keith,31,Financial Analyst,Baltimore, Maryland,1,2,74,185,1,3,85,87
-Trever,35,Restaurateur,North Wales, Pennsylvania,1,2,78,190,3,4,91,117
-Jesse Csincsak,26,Professional snowboarder,Breckenridge, Colorado,1,4,71,180,1,4,31,91
-Jason Mesnick,31,Account executive,Cleveland, Ohio,8,4,76,182,2,4,41,82
-Jeremy Anderson,30,Real estate attorney,Dallas, Texas,7,4,67,217,1,5,50,99
-Graham Bunn,29,Professional basketball player,Raleigh, North Carolina,6,4,68,228,2,4,83,83
-Sean Ramey,33,Martial artist,Louisville, Kentucky,5,4,72,200,4,1,55,50
-Blaine Twilley,33,Debt manager,Tulsa, Oklahoma,5,4,68,168,4,2,87,81
-Brian Westendorf,31,High school football coach,Balch Springs, Texas,4,4,76,248,2,2,95,89
-"Frederick ""Fred"" Greif",30,Lawyer,Skokie, Illinois,4,4,77,215,4,5,90,145
-Robert Fair,28,Chef,San Francisco, California,4,4,77,236,2,5,51,64
-Paul Brosseau,23,Sales manager,Bonnyville, Alberta,3,4,75,178,3,4,82,139
-Ronald Mayer,36,Barber shop owner,Greeley, Colorado,3,4,78,230,1,5,39,146
-Richard Mathy,27,Science teacher,Sauquoit, New York,3,4,70,162,3,1,97,94
-"Christopher ""Chris"" Bradshaw",29,Medical sales rep.,Fort Worth, Texas,2,4,74,224,3,2,51,80
-Eric Papachristos,32,Senior analyst,Boston, Massachusetts,2,4,79,206,3,5,71,108
-Ryan Hoag,28,Professional football player,Minneapolis, Minnesota,2,4,77,167,2,4,72,131
-Brian Winchester,29,Computer network consultant,New Castle, Indiana,1,4,78,163,1,4,78,147
-Chandler Fulton,25,Insurance rep.,Virginia Beach, Virginia,1,4,79,245,3,3,30,70
-Donato Capodanno,26,Sales rep.,Lexington, South Carolina,1,4,69,169,3,1,93,145
-"Gregory ""Greg"" Matthew",28,Personal trainer,Rockport, Massachusetts,1,4,69,175,3,1,52,125
-Jeffrey Harris,27,Mathematics teacher,Miami, Florida,1,4,77,225,2,4,52,54
-"Jonathan ""Jon"" Konkel",35,Resort manager,Williston, North Dakota,1,4,79,187,3,5,32,132
-Luke Hamilton,27,Oyster farmer,Faith, North Carolina,1,4,76,237,1,4,91,127
-Patrick Carlson,26,Financial analyst,Glenwood, Illinois,1,4,76,200,2,1,78,142
-Patrick Durrere,27,Internet marketing,Elmhurst, Illinois,1,4,72,229,2,5,97,99
-Spero Stamboulis,38,Actor,Ellington, Connecticut,1,4,71,204,3,5,56,56
-Ed Swiderski,29,Technology Consultant,Monroe, Michigan,1,5,69,181,1,5,36,100
-Kiptyn Locke,31,Business Developer,Encinitas, California,10,5,77,245,3,4,36,89
-Reid Rosenthal,30,Realtor,Upper Dublin, Pennsylvania,9,5,74,245,3,4,73,108
-Wes Hayden,32,Musician,Huntsville, Texas,8,5,77,245,4,5,37,104
-Jesse Kovacs,27,Wine Maker,Carmel Valley, California,7,5,67,195,3,2,54,147
-Michael Stagliano,25,Break Dance Instructor,Tacoma, Washington,7,5,67,228,2,4,75,75
-Jake Pavelka,31,Commercial Pilot,Denton, Texas,6,5,68,231,3,3,93,130
-Tanner Pope,30,Financial Analyst,Brownfield, Texas,6,5,67,247,4,5,82,131
-Robby Descant,25,Bartender,Spring, Texas,6,5,69,182,4,2,76,58
-Mark Huebner,26,Pizza Entrepreneur,Woodstock, Illinois,5,5,76,250,3,5,52,96
-David Good,27,Trucking Contractor,West Alexandria, Ohio,4,5,70,202,3,4,72,58
-Juan Barbieri,35,General Contractor,Buenos Aires, Argentina,4,5,67,179,3,5,53,75
-Mike Steinberg,28,Baseball Camp Owner,New York, New York,4,5,70,163,3,4,97,146
-Brad Seberhagen,27,Financial Advisor,Park Ridge, Illinois,3,5,75,212,2,1,96,64
-Tanner Fanello,28,Sales Representative,Derby, Kansas,3,5,72,194,2,5,91,78
-Sasha Petrovic,27,Oil & Gas Consultant,Houston, Texas,3,5,67,198,4,1,68,127
-Brian Duke,32,IT Consultant,Birmingham, Alabama,2,5,74,236,2,2,90,146
-Julien Hug,34,Restaurateur,San Diego, California,2,5,68,170,1,4,45,81
-Mathue Johnson,25,Personal Trainer,Andover, Kansas,2,5,71,225,4,5,57,111
-Simon Ambrose,26,Soccer Coach,Bradford, England,2,5,75,210,4,5,92,137
-Adam Duvendeck,27,Olympic Cyclist,Santa Barbara, California,1,5,68,241,4,5,88,100
-Bryan Vaderman,28,High School Coach,Lawton, Oklahoma,1,5,73,171,4,3,85,62
-Bryce Harlow,31,Furniture Dealer,Fort Lauderdale, Florida,1,5,69,187,3,2,41,94
-Caleb Kuhl,27,Photographer,Kansas City, Missouri,1,5,70,185,2,3,35,143
-Greg Bilbro,31,Entrepreneur,Albuquerque, New Mexico,1,5,79,192,4,5,46,77
-John Hardesty,27,Branding Consultant,Boise, Idaho,1,5,73,238,2,1,74,133
-John Presser,29,Marketing Specialist,Fort Wayne, Indiana,1,5,73,212,3,4,47,72
-Josh Yocam,25,Lifeguard,Tustin, California,1,5,72,226,2,5,77,90
-Kyle Yauch,26,Graphic Designer,Austin, Texas,1,5,69,210,3,5,90,97
-Stephen Reich,30,Lawyer,Lexington, Massachusetts,1,5,74,170,1,4,36,148
-Roberto Martinez,26,Insurance Agent,Tampa, Florida,1,6,77,245,4,1,49,75
-Chris Lambton,33,Landscaper,Dennis, Massachusetts,10,6,75,203,4,4,42,119
-Frank Neuschaefer,31,Retail Manager,Bartlett, Illinois,9,6,79,217,3,5,84,63
-Kirk DeWindt,27,Sales Consultant,Green Bay, Wisconsin,8,6,71,189,4,3,51,99
-Ty Brown,31,Medical Sales,Booneville, Mississippi,7,6,69,219,3,5,100,59
-Craig Robinson,27,Lawyer,Langhorne, Pennsylvania,6,6,72,162,3,2,66,106
-Justin Rego,26,Entertainment Wrestler,Toronto, Ontario,6,6,76,223,2,1,96,124
-Chris Nordhorn,29,Entrepreneur,Winter Park, Florida,5,6,77,172,4,2,76,75
-Kasey Kahl,27,Advertising Account Executive,Fresno, California,5,6,73,211,3,5,59,89
-Jesse Beck,24,General Contractor,Peculiar, Missouri,4,6,76,231,4,4,80,125
-Jonathan Novack,30,Weatherman,Boston, Massachusetts,4,6,78,178,3,4,93,110
-John Crivello,32,Hotel Business Development,Mukilteo, Washington,3,6,78,162,3,1,38,125
-Steve Kocsis,28,Sales Representative,Chesterland, Ohio,3,6,72,232,3,3,46,66
-Hunter Wagner,28,Internet Account Executive,Fair Oaks Ranch, Texas,3,6,74,189,3,1,38,102
-Chris Hasek-Watt,27,Real Estate Developer,Campbell River, British Columbia,2,6,76,214,1,5,93,72
-Craig McKinnon,34,Dental Sales,Sarnia, Ontario,2,6,68,167,3,5,75,68
-Tyler Vermette,25,Online Advertising,Chelsea, Vermont,2,6,79,223,3,5,79,50
-Derek,28,Sales Manager,Warren, Michigan,1,6,77,179,4,4,62,106
-Derrick Schuster,27,Construction Engineer,Manhattan Beach, California,1,6,67,177,2,3,73,73
-Jason Whitehead,27,Construction Consultant,Johnson City, Tennessee,1,6,72,238,4,5,100,67
-Jay Resmini,29,Lawyer,Barrington, Rhode Island,1,6,77,220,3,4,91,117
-John N.,27,Engineering Software Sales,Wichita, Kansas,1,6,73,211,3,3,94,101
-Kyle Higgins,26,Outdoorsman,Highlands Ranch, Colorado,1,6,67,247,1,1,35,86
-Phil Kayden,30,Investment Manager,Elmore, Ohio,1,6,78,165,4,4,97,117
-Tyler Morrow,25,Catering Manager,Helena, Montana,1,6,77,207,2,1,84,113
-J.P. Rosenbaum,34,Construction Manager,Roslyn, New York,1,7,68,243,2,1,93,119
-Ben Flajnik,28,Wine Maker,Sonoma, California,10,7,71,233,1,1,78,60
-Constantine Tzortzis,30,Restaurant Owner,Cumming, Georgia,9,7,71,208,2,5,54,73
-Ames Brown,31,Portfolio Manager,Chadds Ford, Pennsylvania,8,7,77,169,4,1,36,117
-Lucas Daniels,30,Oilfield Equipment Distributor,Odessa, Texas,7,7,72,171,1,1,78,99
-Ryan Park,31,Solar Energy Executive,San Luis Obispo, California,7,7,72,232,2,2,95,148
-Blake Julian,27,Dentist,Steamboat Springs, Colorado,6,7,67,234,3,2,90,123
-"Ryan ""Mickey"" McLean",31,Chef,Rochester, New York,6,7,71,228,2,2,93,127
-Nick Peterson,26,Personal Trainer,Odessa, Florida,5,7,78,237,3,2,30,73
-William Holman,30,Cellular Phone Salesman,Fostoria, Ohio,5,7,74,227,4,1,75,121
-Ben Castoriano,28,Lawyer,Lake Charles, Louisiana,5,7,70,225,2,4,57,115
-West Lee,30,Lawyer,Walhalla, South Carolina,4,7,78,197,1,1,62,118
-Chris Drish,25,Sports Marketing Coordinator,Moline, Illinois,3,7,70,168,3,1,72,115
-Jeff Medolla,35,Entrepreneur,St. Louis, Missouri,3,7,74,233,4,4,98,85
-Bentley Williams,28,Businessman,Alpine, Utah,3,7,71,187,3,4,42,148
-Matt Colombo,28,Office Supply Salesman,Bridgewater, Massachusetts,2,7,78,189,4,5,50,124
-Ryan Miller,27,Constructor Estimator,Novi, Michigan,2,7,75,225,1,1,61,113
-Stephen D'Amico,27,Hairstylist,Portland, Connecticut,2,7,71,191,1,5,93,132
-Anthony Santucci,28,Butcher,Saddle River, New Jersey,1,7,77,234,2,1,46,140
-Chris Malhomme,27,Construction Company CEO,Gibbons, Alberta,1,7,72,221,1,4,79,70
-Frank Carpenter,29,College Admissions Director,Anchorage, Alaska,1,7,72,165,1,3,89,130
-Jon Ellsworth,26,E-Commerce Executive,Vancouver, Washington,1,7,71,177,3,2,57,89
-Michael Burns,29,Technology Salesman,Providence, Rhode Island,1,7,76,189,3,1,68,53
-Rob Dahm,27,Technology Executive,Monroe, Michigan,1,7,72,248,2,2,73,103
-Tim McCormack,35,Liquor Distributor,Massapequa, New York,1,7,72,211,3,4,38,72
-Jef Holm,27,Entrepreneur,St. George, Utah,1,8,71,180,3,2,98,77
-"Arie Luyendyk, Jr.",30,Race Car Driver,Scottsdale, Arizona,10,8,68,249,1,3,71,120
-Sean Lowe,28,Insurance Agent,Irving, Texas,9,8,73,182,2,1,31,61
-Chris Bukowski,25,Corporate Sales Director,Chicago, Illinois,8,8,73,226,2,2,39,77
-John Wolfner,30,Data Destruction Specialist,Creve Coeur, Missouri,7,8,75,247,1,4,48,144
-Doug Clerget,33,Single Dad/Real Estate Agent,Tacoma, Washington,7,8,71,249,4,4,88,78
-Ryan Bowers,31,Pro Sports Trainer,Evans, Georgia,6,8,68,184,3,4,53,126
-Travis Pope,30,Advertising Sales Representative,Madison, Mississippi,6,8,75,165,3,3,90,105
-Alejandro Velez,25,Mushroom Farmer,San Francisco, California,5,8,79,247,3,5,92,66
-Kalon McMahon,27,Luxury Brand Consultant,Houston, Texas,5,8,71,191,3,5,92,81
-Charlie Grogan,32,Recruiter,Worcester, Massachusetts,4,8,73,172,2,3,97,125
-Michael Nance,26,Rehab Counselor,Austin, Texas,4,8,69,162,2,2,68,138
-Nathan Baake,25,Accountant,Casa Grande, Arizona,4,8,73,189,2,3,68,106
-Stevie Alberino,26,Party M.C.,Monroe Township, New Jersey,3,8,71,232,4,4,82,53
-Alessandro Goulart,30,Grain Merchant,Saint Paul, Minnesota,3,8,71,204,2,3,30,50
-Tony Pieper,31,Single Dad/Lumber Trader,Beaverton, Oregon,3,8,79,216,2,4,81,73
-Aaron Martell,36,Biology Teacher,North Sydney, Nova Scotia,2,8,78,213,4,3,67,97
-Kyle Dillon,29,Financial Adviser,Long Beach, California,2,8,72,220,2,2,74,101
-Joe Gendreau,27,Field Energy Adviser,Orlando, Florida,2,8,74,244,3,5,84,129
-Brent Richter,41,Technology Salesman,Midland, Texas,1,8,79,172,2,2,45,79
-David Homyk,33,Singer/Songwriter,Charlottesville, Virginia,1,8,71,225,2,4,54,81
-Jackson Longnecker,29,Fitness Model,Lockport, Illinois,1,8,79,216,1,2,92,67
-Jean-Paul LaCount,35,Marine Biologist,Moraga, California,1,8,78,176,2,1,79,73
-Lerone Anu,29,Real Estate Consultant,Laguna Beach, California,1,8,72,196,3,1,64,102
-Randy Lee Woyak,30,Marketing Manager,Oak Creek, Wisconsin,1,8,78,211,2,5,48,107
-Chris Siegfried,27,Mortgage Broker,McMinnville, Oregon,1,9,79,249,3,1,40,144
-Drew Kenney,27,Digital Marketing Analyst,Scottsdale, Arizona,10,9,78,191,1,4,59,60
-Brooks Forester,28,Sales & Marketing,Blackfoot, Idaho,9,9,74,224,2,5,38,73
-Zak Waddell,31,Drilling Fluid Engineer,Dallas, Texas,8,9,73,226,1,3,32,123
-Michael Garofola,33,Federal Prosecutor,Lindenhurst, New York,7,9,75,218,4,3,46,107
-James Case,27,Advertising Executive,Marietta, Georgia,6,9,68,202,2,1,58,135
-Juan Pablo Galavis,31,Former Pro Soccer Player,Barquisimeto, Venezuela,6,9,75,200,4,5,35,105
-Kasey Stewart,29,Advertising Executive,Tulsa, Oklahoma,6,9,71,168,3,1,91,83
-Mikey Tenerelli,30,Plumbing Contractor,Glen Ellyn, Illinois,5,9,73,233,3,1,99,125
-Ben Scott,28,Entrepreneur,Lubbock, Texas,5,9,69,210,2,3,46,53
-Bryden Vukasin,26,Iraq War Veteran,Havre, Montana,5,9,73,175,1,4,49,135
-Zack Kalter,28,Book Publisher,Phillips Ranch, California,4,9,70,247,1,4,96,66
-Brad McKinzie,27,Accountant/DJ,Denver, Colorado,4,9,67,199,1,4,40,101
-Brandon Andreen,26,Painting Contractor,Blaine, Minnesota,3,9,70,204,1,5,82,63
-Dan Cox,30,Beverage Sales Director,Dublin, California,3,9,77,180,4,1,92,69
-Brian Jarosinski,29,Financial Advisor,Olney, Maryland,3,9,72,163,4,3,73,129
-Nick Mucci,27,Investment Adviser,Rochester, New York,2,9,78,175,3,4,80,129
-Robert Graham,30,Advertising Entrepreneur,Glendale, Arizona,2,9,77,245,4,2,100,120
-Will Reese,28,Banker,Federal Way, Washington,2,9,76,249,1,3,70,51
-Diogo Custodio,29,Ski Resort Manager,Penha, Brazil,1,9,68,180,3,5,30,129
-Larry Burchett,34,ER Doctor,Overland Park, Kansas,1,9,79,211,2,3,55,131
-Micah,32,Law Student,Detroit Lakes, Minnesota,1,9,71,171,2,4,61,92
-Mike,28,Dental Student,London, England,1,9,77,216,4,3,67,97
-Nick Roy,26,Tailor/Magician,Ridgefield, Connecticut,1,9,70,170,1,4,35,55
-Jonathan Vollinger,26,Lawyer,Hickory, North Carolina,1,9,75,190,1,5,37,59
-Josh Murray,29,Former Professional Baseball Player,Athens, Georgia,1,10,67,198,4,2,32,58
-Nick Viall,33,Software Sales Executive,Waukesha, Wisconsin,10,10,75,240,4,3,35,122
-Chris Soules,32,Farmer,Lamont, Iowa,9,10,71,230,2,3,76,59
-Marcus Grodd,25,Sports Medicine Manager,Medicine Hat, Alberta,8,10,74,219,3,5,88,149
-Brian Osborne,27,Basketball Coach,Camp Hill, Pennsylvania,7,10,75,179,1,3,30,124
-Dylan Petitt,26,Accountant,Longmeadow, Massachusetts,7,10,79,223,1,4,84,61
-J.J. O'Brien,30,Pantsapreneur,Hanover, Massachusetts,6,10,78,169,4,2,46,88
-Cody Sattler,28,Personal Trainer,Oakley, Kansas,6,10,70,174,2,5,30,51
-Andrew Poole,30,Social Media Marketer,Portola Valley, California,5,10,70,165,1,1,47,60
-Marquel Martin,26,Sponsorship Salesman,Rialto, California,5,10,78,167,3,3,49,104
-Patrick Jagodzinski,29,Advertising Executive,Clinton, New Jersey,5,10,76,182,1,4,73,149
-Tasos Hernandez,30,Wedding Event Coordinator,Denver, Colorado,4,10,69,189,2,2,75,89
-Eric Hill,31,Explorer,Citrus Heights, California,4,10,67,207,2,4,48,97
-Bradley Wisk,32,Opera Singer,Grosse Pointe, Michigan,3,10,74,219,4,2,82,78
-Brett Melnick,29,Hairstylist,Warminster, Pennsylvania,3,10,69,177,2,5,32,50
-Ron Worrell,28,Beverage Sales Manager,Nahariya, Israel,3,10,73,160,3,5,77,113
-Carl King,30,Firefighter,Hollywood, California,2,10,72,192,2,3,49,105
-Craig Muhlbauer,29,Tax Accountant,Defiance, Iowa,2,10,71,229,1,3,98,105
-Nick Sutter,27,Professional Golfer,Barrington, Illinois,2,10,75,191,4,2,90,77
-Emil Schaffroth,33,Helicopter Pilot,Portland, Oregon,1,10,77,238,1,1,35,111
-Jason Leep,35,Urgent Care Physician,Sturgeon Bay, Wisconsin,1,10,75,174,1,3,41,133
-Josh Bauer,29,Telecommunication Marketer,Evergreen, Colorado,1,10,68,219,4,1,73,102
-Mike Campanelli,29,Bartender,Guilderland, New York,1,10,70,232,1,1,73,74
-Rudie Dane,31,Attorney,Yorba Linda, California,1,10,73,175,3,3,44,125
-Steven Woolworth,30,Snowboard Product Developer,Meadow Vista, California,1,10,74,230,1,5,98,70
-Shawn Booth,28,Personal Trainer,Windsor Locks, Connecticut,1,11,68,250,3,5,32,131
-Nick Viall,34,Software Sales Executive,Waukesha, Wisconsin,9,11,79,215,4,1,72,68
-Ben Higgins,26,Software Salesman,Warsaw, Indiana,8,11,71,171,2,4,92,87
-Jared Haibon,26,Restaurant Manager,Warwick, Rhode Island,7,11,76,196,4,2,51,84
-Joe Bailey,28,Insurance Agent,Glasgow, Kentucky,7,11,71,181,1,5,60,98
-Chris Strandburg,28,Dentist,Granite Bay, California,7,11,72,244,1,1,38,86
-Ben Zorn,26,Fitness Coach,Falls Church, Virginia,6,11,76,188,1,2,83,63
-Tanner Tolbert,28,Auto Finance Manager,Stilwell, Kansas,6,11,77,248,1,4,92,127
-J.J. Lane III,32,Former Investment Banker,Dacono, Colorado,6,11,67,204,1,2,40,142
-Joshua Albers,31,Industrial Welder,Kuna, Idaho,5,11,70,249,2,1,34,76
-Justin Reich,28,Fitness Trainer,Elgin, Illinois,5,11,69,172,3,5,56,55
-Ian Thomson,28,Executive Recruiter,Ramsey, New Jersey,5,11,75,217,4,2,57,116
-Corey Stansell (NY),30,Investment Banker,New York, New York,4,11,70,247,1,5,37,83
-Jonathan Holloway,33,Automotive Spokesman,Sylvan Lake, Michigan,4,11,71,229,4,2,100,106
-Ryan Beckett,32,Realtor,Wellington, Florida,4,11,73,191,4,1,54,57
-Clint Arlis,27,Architectural Engineer,Batavia, Illinois,3,11,70,249,4,1,42,57
-Tony Harris,35,Healer,St. Louis, Missouri,3,11,75,168,1,4,97,131
-Cory Shivar (NC),35,Residential Developer,Seven Springs, North Carolina,2,11,75,250,4,4,90,84
-Daniel Finney,28,Fashion Designer,Nashville, Tennessee,2,11,79,245,4,4,30,64
-Kupah James,32,Entrepreneur,Boston, Massachusetts,2,11,74,187,1,2,62,59
-Bradley Cox,25,International Auto Shipper,Duluth, Georgia,1,11,78,211,2,5,45,89
-David,28,Real Estate Agent,Orlando, Florida,1,11,70,178,2,3,68,53
-Josh Seiter,27,Law Student/Exotic Dancer,Chicago, Illinois,1,11,73,191,4,3,56,91
-Shawn Evans,31,Amateur Sex Coach,London, Ontario,1,11,75,234,1,3,45,94
-Brady Toops,33,Singer/Songwriter,Wauseon, Ohio,1,11,69,171,3,4,97,94
-Ryan McDill,28,Junkyard Specialist,Kansas City, Missouri,1,11,72,189,4,3,83,80
-Jordan Rodgers,27,Former Pro Quarterback,Chico, California,1,12,68,175,4,2,41,67
-Robby Hayes,27,Former Competitive Swimmer,St. Augustine, Florida,10,12,77,213,4,5,34,56
-Chase McNary,27,Medical Sales Rep,Castle Rock, Colorado,9,12,78,219,1,3,52,128
-Luke Pell,31,War Veteran,Burnet, Texas,8,12,70,163,4,3,33,125
-James Taylor,29,Singer-Songwriter,Katy, Texas,7,12,77,177,2,2,52,70
-Alex Woytkiw,25,U.S. Marine,Oceanside, California,7,12,71,169,1,4,37,50
-Derek Peth,29,Commercial Banker,Waverly, Iowa,6,12,74,229,3,4,55,110
-Wells Adams,31,Radio DJ,Monterey, California,6,12,68,181,3,4,69,143
-Evan Bass,33,Erectile Dysfunction Specialist,Hartford, Connecticut,5,12,70,231,2,3,36,70
-Grant Kemp,27,Firefighter,San Francisco, California,5,12,69,244,3,3,47,96
-"Vincent ""Vinny"" Ventiera",28,Barber,Kings Park, New York,5,12,70,231,2,5,34,140
-Daniel Maguire,31,Male Model,Lions Bay, British Columbia,4,12,68,211,4,4,43,58
-James Fuertes,34,Boxing Club Owner,Franklin, Tennessee,4,12,76,174,3,4,57,131
-Chad Johnson,28,Luxury Real Estate Agent,Jenks, Oklahoma,4,12,77,205,1,1,53,141
-Ali Zahiri,27,Bartender,Santa Monica, California,3,12,67,167,2,3,39,110
-Christian Bishop,26,Telecom Consultant,Los Angeles, California,3,12,68,225,3,5,36,60
-Nick Benvenutti,33,Electrical Engineer,Carthage, Illinois,3,12,71,244,2,1,86,136
-Brandon Howell,28,Hipster,Marysville, Washington,2,12,69,193,2,5,48,111
-James Spadafore,27,Bachelor Superfan,Phoenix, Arizona,2,12,78,232,3,3,95,71
-Will Haduch,26,Civil Engineer,Jersey City, New Jersey,2,12,72,176,3,4,79,133
-Coley Knust,27,Real Estate Consultant,Chicago, Illinois,1,12,70,170,3,4,51,127
-Jake Patton,26,Landscape Architect,Playa Vista, California,1,12,73,222,1,5,66,80
-Jonathan Hamilton,29,Technical Sales Rep,Vancouver, British Columbia,1,12,75,231,3,5,76,58
-Nick Sharp,26,Software Salesman,San Francisco, California,1,12,74,209,1,4,92,116
-Peter Medina,26,Staffing Agency Manager,Rockdale, Illinois,1,12,77,202,1,2,86,127
-Sal DeJulio,28,Operations Manager,Hubbard, Ohio,1,12,77,224,4,3,83,66
+Name,Age,Occupation,Hometown,State,Height(in),Weight(lbs),Hair Color,Eye Color,Pushups,Pullups,Elim Week,Season
+Billy,28,Firefighter,Hermosa Beach, California,78,218,4,2,99,78,1,1
+Brian K.,31,Breast Implant Sales,San Francisco, California,73,177,4,2,91,149,1,1
+Chris,35,V.P. of Auto Parts Company,Sugarloaf, Pennsylvania,78,225,4,3,93,116,1,1
+Duane,28,Flight Instructor,Chisago City, Minnesota,70,167,2,1,98,88,1,1
+Eric,33,Commercial Pilot,St. Louis, Missouri,69,181,1,2,98,90,1,1
+Gregg H.,34,Marble Company Owner,Freehold, New Jersey,69,203,4,3,35,128,1,1
+Matt,42,Gym Owner,Marina Del Rey, California,72,164,1,5,75,58,1,1
+Paul,26,Telecommunications,Honolulu, Hawaii,67,198,2,2,32,77,1,1
+Peter,25,Construction Business Owner,Long Island, New York,79,186,2,2,91,132,1,1
+Wayne,37,Commercial Pilot,Sacramento, California,73,244,4,5,85,113,1,1
+Ian McKee,29,Equity Research Sales,New York, New York,71,177,4,3,90,62,2,2
+Matthew Hickl,28,Pharmaceutical Sales Rep,Friendswood, Texas,74,168,3,1,97,150,8,2
+Chad,31,Pharmaceutical Sales Rep,Buffalo, New York,69,177,4,4,70,68,6,2
+Lanny,26,Stallion and Breeding Manager,Aubrey, Texas,67,215,4,2,89,79,5,2
+Brad,29,Pharmaceutical Sales Rep,Grand Rapids, Michigan,70,188,4,2,40,141,4,2
+Ryan M.,30,Financial Advisor,Santa Barbara, California,74,171,4,3,41,96,4,2
+Sean,31,CPA,Wall, New Jersey,76,240,4,1,62,147,4,2
+Rick,29,Business Manager,San Diego, California,71,217,1,4,54,73,3,2
+Ryan R.,29,Sales/Marketing,Wynola, California,70,191,4,1,47,127,3,2
+Todd,36,Options Trader,San Francisco, California,73,232,2,5,63,134,3,2
+Damon,28,Arena Football Player,Cardiff, California,73,219,4,1,80,72,2,2
+Eliot,25,Options Trader,Mountain View, California,78,204,3,3,100,106,2,2
+Harold Hersh,29,Professional Hockey Player,Rock Island, Illinois,74,197,3,5,94,63,2,2
+Marcus,26,Personal Trainer,Los Angeles, California,76,216,3,4,37,147,2,2
+Robert,32,Alliance Development,El Segundo, California,77,166,1,1,40,112,2,2
+Aaron,32,Title and Escrow Sales,Sacramento, California,74,203,2,3,78,142,1,2
+Andy Chang,33,Dentist,Dallas, Texas,73,233,3,2,38,116,1,2
+Anselm Clinard,32,Art Designer,Venice, California,78,210,3,2,40,128,1,2
+Brian,31,Attorney,Quincy, Massachusetts,74,204,4,1,77,108,1,2
+Chris,31,Accountant,Boston, Massachusetts,78,197,3,3,45,100,1,2
+Cory Higgins,24,Small Business Owner,Long Beach Island, New Jersey,69,169,3,5,86,67,1,2
+Jeff O'Quinn,30,Pharmaceutical Sales Rep,Macon, Georgia,75,219,1,3,90,114,1,2
+Justin,25,Professional Baseball Player,Orlando, Florida,73,245,3,2,93,103,1,2
+Keith,31,Financial Analyst,Baltimore, Maryland,74,185,1,3,85,87,1,2
+Trever,35,Restaurateur,North Wales, Pennsylvania,78,190,3,4,91,117,1,2
+Jesse Csincsak,26,Professional snowboarder,Breckenridge, Colorado,71,180,1,4,31,91,8,4
+Jason Mesnick,31,Account executive,Cleveland, Ohio,76,182,2,4,41,82,8,4
+Jeremy Anderson,30,Real estate attorney,Dallas, Texas,67,217,1,5,50,99,7,4
+Graham Bunn,29,Professional basketball player,Raleigh, North Carolina,68,228,2,4,83,83,6,4
+Sean Ramey,33,Martial artist,Louisville, Kentucky,72,200,4,1,55,50,5,4
+Blaine Twilley,33,Debt manager,Tulsa, Oklahoma,68,168,4,2,87,81,5,4
+Brian Westendorf,31,High school football coach,Balch Springs, Texas,76,248,2,2,95,89,4,4
+"Frederick ""Fred"" Greif",30,Lawyer,Skokie, Illinois,77,215,4,5,90,145,4,4
+Robert Fair,28,Chef,San Francisco, California,77,236,2,5,51,64,4,4
+Paul Brosseau,23,Sales manager,Bonnyville, Alberta,75,178,3,4,82,139,3,4
+Ronald Mayer,36,Barber shop owner,Greeley, Colorado,78,230,1,5,39,146,3,4
+Richard Mathy,27,Science teacher,Sauquoit, New York,70,162,3,1,97,94,3,4
+"Christopher ""Chris"" Bradshaw",29,Medical sales rep.,Fort Worth, Texas,74,224,3,2,51,80,2,4
+Eric Papachristos,32,Senior analyst,Boston, Massachusetts,79,206,3,5,71,108,2,4
+Ryan Hoag,28,Professional football player,Minneapolis, Minnesota,77,167,2,4,72,131,2,4
+Brian Winchester,29,Computer network consultant,New Castle, Indiana,78,163,1,4,78,147,1,4
+Chandler Fulton,25,Insurance rep.,Virginia Beach, Virginia,79,245,3,3,30,70,1,4
+Donato Capodanno,26,Sales rep.,Lexington, South Carolina,69,169,3,1,93,145,1,4
+"Gregory ""Greg"" Matthew",28,Personal trainer,Rockport, Massachusetts,69,175,3,1,52,125,1,4
+Jeffrey Harris,27,Mathematics teacher,Miami, Florida,77,225,2,4,52,54,1,4
+"Jonathan ""Jon"" Konkel",35,Resort manager,Williston, North Dakota,79,187,3,5,32,132,1,4
+Luke Hamilton,27,Oyster farmer,Faith, North Carolina,76,237,1,4,91,127,1,4
+Patrick Carlson,26,Financial analyst,Glenwood, Illinois,76,200,2,1,78,142,1,4
+Patrick Durrere,27,Internet marketing,Elmhurst, Illinois,72,229,2,5,97,99,1,4
+Spero Stamboulis,38,Actor,Ellington, Connecticut,71,204,3,5,56,56,1,4
+Ed Swiderski,29,Technology Consultant,Monroe, Michigan,69,181,1,5,36,100,,5
+Kiptyn Locke,31,Business Developer,Encinitas, California,77,245,3,4,36,89,10,5
+Reid Rosenthal,30,Realtor,Upper Dublin, Pennsylvania,74,245,3,4,73,108,9,5
+Wes Hayden,32,Musician,Huntsville, Texas,77,245,4,5,37,104,8,5
+Jesse Kovacs,27,Wine Maker,Carmel Valley, California,67,195,3,2,54,147,7,5
+Michael Stagliano,25,Break Dance Instructor,Tacoma, Washington,67,228,2,4,75,75,7,5
+Jake Pavelka,31,Commercial Pilot,Denton, Texas,68,231,3,3,93,130,6,5
+Tanner Pope,30,Financial Analyst,Brownfield, Texas,67,247,4,5,82,131,6,5
+Robby Descant,25,Bartender,Spring, Texas,69,182,4,2,76,58,6,5
+Mark Huebner,26,Pizza Entrepreneur,Woodstock, Illinois,76,250,3,5,52,96,5,5
+David Good,27,Trucking Contractor,West Alexandria, Ohio,70,202,3,4,72,58,4,5
+Juan Barbieri,35,General Contractor,Buenos Aires, Argentina,67,179,3,5,53,75,4,5
+Mike Steinberg,28,Baseball Camp Owner,New York, New York,70,163,3,4,97,146,4,5
+Brad Seberhagen,27,Financial Advisor,Park Ridge, Illinois,75,212,2,1,96,64,3,5
+Tanner Fanello,28,Sales Representative,Derby, Kansas,72,194,2,5,91,78,3,5
+Sasha Petrovic,27,Oil & Gas Consultant,Houston, Texas,67,198,4,1,68,127,3,5
+Brian Duke,32,IT Consultant,Birmingham, Alabama,74,236,2,2,90,146,2,5
+Julien Hug,34,Restaurateur,San Diego, California,68,170,1,4,45,81,2,5
+Mathue Johnson,25,Personal Trainer,Andover, Kansas,71,225,4,5,57,111,2,5
+Simon Ambrose,26,Soccer Coach,Bradford, England,75,210,4,5,92,137,2,5
+Adam Duvendeck,27,Olympic Cyclist,Santa Barbara, California,68,241,4,5,88,100,1,5
+Bryan Vaderman,28,High School Coach,Lawton, Oklahoma,73,171,4,3,85,62,1,5
+Bryce Harlow,31,Furniture Dealer,Fort Lauderdale, Florida,69,187,3,2,41,94,1,5
+Caleb Kuhl,27,Photographer,Kansas City, Missouri,70,185,2,3,35,143,1,5
+Greg Bilbro,31,Entrepreneur,Albuquerque, New Mexico,79,192,4,5,46,77,1,5
+John Hardesty,27,Branding Consultant,Boise, Idaho,73,238,2,1,74,133,1,5
+John Presser,29,Marketing Specialist,Fort Wayne, Indiana,73,212,3,4,47,72,1,5
+Josh Yocam,25,Lifeguard,Tustin, California,72,226,2,5,77,90,1,5
+Kyle Yauch,26,Graphic Designer,Austin, Texas,69,210,3,5,90,97,1,5
+Stephen Reich,30,Lawyer,Lexington, Massachusetts,74,170,1,4,36,148,1,5
+Roberto Martinez,26,Insurance Agent,Tampa, Florida,77,245,4,1,49,75,10,6
+Chris Lambton,33,Landscaper,Dennis, Massachusetts,75,203,4,4,42,119,10,6
+Frank Neuschaefer,31,Retail Manager,Bartlett, Illinois,79,217,3,5,84,63,9,6
+Kirk DeWindt,27,Sales Consultant,Green Bay, Wisconsin,71,189,4,3,51,99,8,6
+Ty Brown,31,Medical Sales,Booneville, Mississippi,69,219,3,5,100,59,7,6
+Craig Robinson,27,Lawyer,Langhorne, Pennsylvania,72,162,3,2,66,106,6,6
+Justin Rego,26,Entertainment Wrestler,Toronto, Ontario,76,223,2,1,96,124,6,6
+Chris Nordhorn,29,Entrepreneur,Winter Park, Florida,77,172,4,2,76,75,5,6
+Kasey Kahl,27,Advertising Account Executive,Fresno, California,73,211,3,5,59,89,5,6
+Jesse Beck,24,General Contractor,Peculiar, Missouri,76,231,4,4,80,125,4,6
+Jonathan Novack,30,Weatherman,Boston, Massachusetts,78,178,3,4,93,110,4,6
+John Crivello,32,Hotel Business Development,Mukilteo, Washington,78,162,3,1,38,125,3,6
+Steve Kocsis,28,Sales Representative,Chesterland, Ohio,72,232,3,3,46,66,3,6
+Hunter Wagner,28,Internet Account Executive,Fair Oaks Ranch, Texas,74,189,3,1,38,102,3,6
+Chris Hasek-Watt,27,Real Estate Developer,Campbell River, British Columbia,76,214,1,5,93,72,2,6
+Craig McKinnon,34,Dental Sales,Sarnia, Ontario,68,167,3,5,75,68,2,6
+Tyler Vermette,25,Online Advertising,Chelsea, Vermont,79,223,3,5,79,50,2,6
+Derek,28,Sales Manager,Warren, Michigan,77,179,4,4,62,106,1,6
+Derrick Schuster,27,Construction Engineer,Manhattan Beach, California,67,177,2,3,73,73,1,6
+Jason Whitehead,27,Construction Consultant,Johnson City, Tennessee,72,238,4,5,100,67,1,6
+Jay Resmini,29,Lawyer,Barrington, Rhode Island,77,220,3,4,91,117,1,6
+John N.,27,Engineering Software Sales,Wichita, Kansas,73,211,3,3,94,101,1,6
+Kyle Higgins,26,Outdoorsman,Highlands Ranch, Colorado,67,247,1,1,35,86,1,6
+Phil Kayden,30,Investment Manager,Elmore, Ohio,78,165,4,4,97,117,1,6
+Tyler Morrow,25,Catering Manager,Helena, Montana,77,207,2,1,84,113,1,6
+J.P. Rosenbaum,34,Construction Manager,Roslyn, New York,68,243,2,1,93,119,1,7
+Ben Flajnik,28,Wine Maker,Sonoma, California,71,233,1,1,78,60,10,7
+Constantine Tzortzis,30,Restaurant Owner,Cumming, Georgia,71,208,2,5,54,73,9,7
+Ames Brown,31,Portfolio Manager,Chadds Ford, Pennsylvania,77,169,4,1,36,117,8,7
+Lucas Daniels,30,Oilfield Equipment Distributor,Odessa, Texas,72,171,1,1,78,99,7,7
+Ryan Park,31,Solar Energy Executive,San Luis Obispo, California,72,232,2,2,95,148,7,7
+Blake Julian,27,Dentist,Steamboat Springs, Colorado,67,234,3,2,90,123,6,7
+"Ryan ""Mickey"" McLean",31,Chef,Rochester, New York,71,228,2,2,93,127,6,7
+Nick Peterson,26,Personal Trainer,Odessa, Florida,78,237,3,2,30,73,5,7
+William Holman,30,Cellular Phone Salesman,Fostoria, Ohio,74,227,4,1,75,121,5,7
+Ben Castoriano,28,Lawyer,Lake Charles, Louisiana,70,225,2,4,57,115,5,7
+West Lee,30,Lawyer,Walhalla, South Carolina,78,197,1,1,62,118,4,7
+Chris Drish,25,Sports Marketing Coordinator,Moline, Illinois,70,168,3,1,72,115,3,7
+Jeff Medolla,35,Entrepreneur,St. Louis, Missouri,74,233,4,4,98,85,3,7
+Bentley Williams,28,Businessman,Alpine, Utah,71,187,3,4,42,148,3,7
+Matt Colombo,28,Office Supply Salesman,Bridgewater, Massachusetts,78,189,4,5,50,124,2,7
+Ryan Miller,27,Constructor Estimator,Novi, Michigan,75,225,1,1,61,113,2,7
+Stephen D'Amico,27,Hairstylist,Portland, Connecticut,71,191,1,5,93,132,2,7
+Anthony Santucci,28,Butcher,Saddle River, New Jersey,77,234,2,1,46,140,1,7
+Chris Malhomme,27,Construction Company CEO,Gibbons, Alberta,72,221,1,4,79,70,1,7
+Frank Carpenter,29,College Admissions Director,Anchorage, Alaska,72,165,1,3,89,130,1,7
+Jon Ellsworth,26,E-Commerce Executive,Vancouver, Washington,71,177,3,2,57,89,1,7
+Michael Burns,29,Technology Salesman,Providence, Rhode Island,76,189,3,1,68,53,1,7
+Rob Dahm,27,Technology Executive,Monroe, Michigan,72,248,2,2,73,103,1,7
+Tim McCormack,35,Liquor Distributor,Massapequa, New York,72,211,3,4,38,72,1,7
+Jef Holm,27,Entrepreneur,St. George, Utah,71,180,3,2,98,77,10,8
+"Arie Luyendyk, Jr.",30,Race Car Driver,Scottsdale, Arizona,68,249,1,3,71,120,10,8
+Sean Lowe,28,Insurance Agent,Irving, Texas,73,182,2,1,31,61,9,8
+Chris Bukowski,25,Corporate Sales Director,Chicago, Illinois,73,226,2,2,39,77,8,8
+John Wolfner,30,Data Destruction Specialist,Creve Coeur, Missouri,75,247,1,4,48,144,7,8
+Doug Clerget,33,Single Dad/Real Estate Agent,Tacoma, Washington,71,249,4,4,88,78,7,8
+Ryan Bowers,31,Pro Sports Trainer,Evans, Georgia,68,184,3,4,53,126,6,8
+Travis Pope,30,Advertising Sales Representative,Madison, Mississippi,75,165,3,3,90,105,6,8
+Alejandro Velez,25,Mushroom Farmer,San Francisco, California,79,247,3,5,92,66,5,8
+Kalon McMahon,27,Luxury Brand Consultant,Houston, Texas,71,191,3,5,92,81,5,8
+Charlie Grogan,32,Recruiter,Worcester, Massachusetts,73,172,2,3,97,125,4,8
+Michael Nance,26,Rehab Counselor,Austin, Texas,69,162,2,2,68,138,4,8
+Nathan Baake,25,Accountant,Casa Grande, Arizona,73,189,2,3,68,106,4,8
+Stevie Alberino,26,Party M.C.,Monroe Township, New Jersey,71,232,4,4,82,53,3,8
+Alessandro Goulart,30,Grain Merchant,Saint Paul, Minnesota,71,204,2,3,30,50,3,8
+Tony Pieper,31,Single Dad/Lumber Trader,Beaverton, Oregon,79,216,2,4,81,73,3,8
+Aaron Martell,36,Biology Teacher,North Sydney, Nova Scotia,78,213,4,3,67,97,2,8
+Kyle Dillon,29,Financial Adviser,Long Beach, California,72,220,2,2,74,101,2,8
+Joe Gendreau,27,Field Energy Adviser,Orlando, Florida,74,244,3,5,84,129,2,8
+Brent Richter,41,Technology Salesman,Midland, Texas,79,172,2,2,45,79,1,8
+David Homyk,33,Singer/Songwriter,Charlottesville, Virginia,71,225,2,4,54,81,1,8
+Jackson Longnecker,29,Fitness Model,Lockport, Illinois,79,216,1,2,92,67,1,8
+Jean-Paul LaCount,35,Marine Biologist,Moraga, California,78,176,2,1,79,73,1,8
+Lerone Anu,29,Real Estate Consultant,Laguna Beach, California,72,196,3,1,64,102,1,8
+Randy Lee Woyak,30,Marketing Manager,Oak Creek, Wisconsin,78,211,2,5,48,107,1,8
+Chris Siegfried,27,Mortgage Broker,McMinnville, Oregon,79,249,3,1,40,144,1,9
+Drew Kenney,27,Digital Marketing Analyst,Scottsdale, Arizona,78,191,1,4,59,60,10,9
+Brooks Forester,28,Sales & Marketing,Blackfoot, Idaho,74,224,2,5,38,73,9,9
+Zak Waddell,31,Drilling Fluid Engineer,Dallas, Texas,73,226,1,3,32,123,8,9
+Michael Garofola,33,Federal Prosecutor,Lindenhurst, New York,75,218,4,3,46,107,7,9
+James Case,27,Advertising Executive,Marietta, Georgia,68,202,2,1,58,135,6,9
+Juan Pablo Galavis,31,Former Pro Soccer Player,Barquisimeto, Venezuela,75,200,4,5,35,105,6,9
+Kasey Stewart,29,Advertising Executive,Tulsa, Oklahoma,71,168,3,1,91,83,6,9
+Mikey Tenerelli,30,Plumbing Contractor,Glen Ellyn, Illinois,73,233,3,1,99,125,5,9
+Ben Scott,28,Entrepreneur,Lubbock, Texas,69,210,2,3,46,53,5,9
+Bryden Vukasin,26,Iraq War Veteran,Havre, Montana,73,175,1,4,49,135,5,9
+Zack Kalter,28,Book Publisher,Phillips Ranch, California,70,247,1,4,96,66,4,9
+Brad McKinzie,27,Accountant/DJ,Denver, Colorado,67,199,1,4,40,101,4,9
+Brandon Andreen,26,Painting Contractor,Blaine, Minnesota,70,204,1,5,82,63,3,9
+Dan Cox,30,Beverage Sales Director,Dublin, California,77,180,4,1,92,69,3,9
+Brian Jarosinski,29,Financial Advisor,Olney, Maryland,72,163,4,3,73,129,3,9
+Nick Mucci,27,Investment Adviser,Rochester, New York,78,175,3,4,80,129,2,9
+Robert Graham,30,Advertising Entrepreneur,Glendale, Arizona,77,245,4,2,100,120,2,9
+Will Reese,28,Banker,Federal Way, Washington,76,249,1,3,70,51,2,9
+Diogo Custodio,29,Ski Resort Manager,Penha, Brazil,68,180,3,5,30,129,1,9
+Larry Burchett,34,ER Doctor,Overland Park, Kansas,79,211,2,3,55,131,1,9
+Micah,32,Law Student,Detroit Lakes, Minnesota,71,171,2,4,61,92,1,9
+Mike,28,Dental Student,London, England,77,216,4,3,67,97,1,9
+Nick Roy,26,Tailor/Magician,Ridgefield, Connecticut,70,170,1,4,35,55,1,9
+Jonathan Vollinger,26,Lawyer,Hickory, North Carolina,75,190,1,5,37,59,1,9
+Josh Murray,29,Former Professional Baseball Player,Athens, Georgia,67,198,4,2,32,58,1,10
+Nick Viall,33,Software Sales Executive,Waukesha, Wisconsin,75,240,4,3,35,122,10,10
+Chris Soules,32,Farmer,Lamont, Iowa,71,230,2,3,76,59,9,10
+Marcus Grodd,25,Sports Medicine Manager,Medicine Hat, Alberta,74,219,3,5,88,149,8,10
+Brian Osborne,27,Basketball Coach,Camp Hill, Pennsylvania,75,179,1,3,30,124,7,10
+Dylan Petitt,26,Accountant,Longmeadow, Massachusetts,79,223,1,4,84,61,7,10
+J.J. O'Brien,30,Pantsapreneur,Hanover, Massachusetts,78,169,4,2,46,88,6,10
+Cody Sattler,28,Personal Trainer,Oakley, Kansas,70,174,2,5,30,51,6,10
+Andrew Poole,30,Social Media Marketer,Portola Valley, California,70,165,1,1,47,60,5,10
+Marquel Martin,26,Sponsorship Salesman,Rialto, California,78,167,3,3,49,104,5,10
+Patrick Jagodzinski,29,Advertising Executive,Clinton, New Jersey,76,182,1,4,73,149,5,10
+Tasos Hernandez,30,Wedding Event Coordinator,Denver, Colorado,69,189,2,2,75,89,4,10
+Eric Hill,31,Explorer,Citrus Heights, California,67,207,2,4,48,97,4,10
+Bradley Wisk,32,Opera Singer,Grosse Pointe, Michigan,74,219,4,2,82,78,3,10
+Brett Melnick,29,Hairstylist,Warminster, Pennsylvania,69,177,2,5,32,50,3,10
+Ron Worrell,28,Beverage Sales Manager,Nahariya, Israel,73,160,3,5,77,113,3,10
+Carl King,30,Firefighter,Hollywood, California,72,192,2,3,49,105,2,10
+Craig Muhlbauer,29,Tax Accountant,Defiance, Iowa,71,229,1,3,98,105,2,10
+Nick Sutter,27,Professional Golfer,Barrington, Illinois,75,191,4,2,90,77,2,10
+Emil Schaffroth,33,Helicopter Pilot,Portland, Oregon,77,238,1,1,35,111,1,10
+Jason Leep,35,Urgent Care Physician,Sturgeon Bay, Wisconsin,75,174,1,3,41,133,1,10
+Josh Bauer,29,Telecommunication Marketer,Evergreen, Colorado,68,219,4,1,73,102,1,10
+Mike Campanelli,29,Bartender,Guilderland, New York,70,232,1,1,73,74,1,10
+Rudie Dane,31,Attorney,Yorba Linda, California,73,175,3,3,44,125,1,10
+Steven Woolworth,30,Snowboard Product Developer,Meadow Vista, California,74,230,1,5,98,70,1,10
+Shawn Booth,28,Personal Trainer,Windsor Locks, Connecticut,68,250,3,5,32,131,1,11
+Nick Viall,34,Software Sales Executive,Waukesha, Wisconsin,79,215,4,1,72,68,9,11
+Ben Higgins,26,Software Salesman,Warsaw, Indiana,71,171,2,4,92,87,8,11
+Jared Haibon,26,Restaurant Manager,Warwick, Rhode Island,76,196,4,2,51,84,7,11
+Joe Bailey,28,Insurance Agent,Glasgow, Kentucky,71,181,1,5,60,98,7,11
+Chris Strandburg,28,Dentist,Granite Bay, California,72,244,1,1,38,86,7,11
+Ben Zorn,26,Fitness Coach,Falls Church, Virginia,76,188,1,2,83,63,6,11
+Tanner Tolbert,28,Auto Finance Manager,Stilwell, Kansas,77,248,1,4,92,127,6,11
+J.J. Lane III,32,Former Investment Banker,Dacono, Colorado,67,204,1,2,40,142,6,11
+Joshua Albers,31,Industrial Welder,Kuna, Idaho,70,249,2,1,34,76,5,11
+Justin Reich,28,Fitness Trainer,Elgin, Illinois,69,172,3,5,56,55,5,11
+Ian Thomson,28,Executive Recruiter,Ramsey, New Jersey,75,217,4,2,57,116,5,11
+Corey Stansell (NY),30,Investment Banker,New York, New York,70,247,1,5,37,83,4,11
+Jonathan Holloway,33,Automotive Spokesman,Sylvan Lake, Michigan,71,229,4,2,100,106,4,11
+Ryan Beckett,32,Realtor,Wellington, Florida,73,191,4,1,54,57,4,11
+Clint Arlis,27,Architectural Engineer,Batavia, Illinois,70,249,4,1,42,57,3,11
+Tony Harris,35,Healer,St. Louis, Missouri,75,168,1,4,97,131,3,11
+Cory Shivar (NC),35,Residential Developer,Seven Springs, North Carolina,75,250,4,4,90,84,2,11
+Daniel Finney,28,Fashion Designer,Nashville, Tennessee,79,245,4,4,30,64,2,11
+Kupah James,32,Entrepreneur,Boston, Massachusetts,74,187,1,2,62,59,2,11
+Bradley Cox,25,International Auto Shipper,Duluth, Georgia,78,211,2,5,45,89,1,11
+David,28,Real Estate Agent,Orlando, Florida,70,178,2,3,68,53,1,11
+Josh Seiter,27,Law Student/Exotic Dancer,Chicago, Illinois,73,191,4,3,56,91,1,11
+Shawn Evans,31,Amateur Sex Coach,London, Ontario,75,234,1,3,45,94,1,11
+Brady Toops,33,Singer/Songwriter,Wauseon, Ohio,69,171,3,4,97,94,1,11
+Ryan McDill,28,Junkyard Specialist,Kansas City, Missouri,72,189,4,3,83,80,1,11
+Jordan Rodgers,27,Former Pro Quarterback,Chico, California,68,175,4,2,41,67,1,12
+Robby Hayes,27,Former Competitive Swimmer,St. Augustine, Florida,77,213,4,5,34,56,10,12
+Chase McNary,27,Medical Sales Rep,Castle Rock, Colorado,78,219,1,3,52,128,9,12
+Luke Pell,31,War Veteran,Burnet, Texas,70,163,4,3,33,125,8,12
+James Taylor,29,Singer-Songwriter,Katy, Texas,77,177,2,2,52,70,7,12
+Alex Woytkiw,25,U.S. Marine,Oceanside, California,71,169,1,4,37,50,7,12
+Derek Peth,29,Commercial Banker,Waverly, Iowa,74,229,3,4,55,110,6,12
+Wells Adams,31,Radio DJ,Monterey, California,68,181,3,4,69,143,6,12
+Evan Bass,33,Erectile Dysfunction Specialist,Hartford, Connecticut,70,231,2,3,36,70,5,12
+Grant Kemp,27,Firefighter,San Francisco, California,69,244,3,3,47,96,5,12
+"Vincent ""Vinny"" Ventiera",28,Barber,Kings Park, New York,70,231,2,5,34,140,5,12
+Daniel Maguire,31,Male Model,Lions Bay, British Columbia,68,211,4,4,43,58,4,12
+James Fuertes,34,Boxing Club Owner,Franklin, Tennessee,76,174,3,4,57,131,4,12
+Chad Johnson,28,Luxury Real Estate Agent,Jenks, Oklahoma,77,205,1,1,53,141,4,12
+Ali Zahiri,27,Bartender,Santa Monica, California,67,167,2,3,39,110,3,12
+Christian Bishop,26,Telecom Consultant,Los Angeles, California,68,225,3,5,36,60,3,12
+Nick Benvenutti,33,Electrical Engineer,Carthage, Illinois,71,244,2,1,86,136,3,12
+Brandon Howell,28,Hipster,Marysville, Washington,69,193,2,5,48,111,2,12
+James Spadafore,27,Bachelor Superfan,Phoenix, Arizona,78,232,3,3,95,71,2,12
+Will Haduch,26,Civil Engineer,Jersey City, New Jersey,72,176,3,4,79,133,2,12
+Coley Knust,27,Real Estate Consultant,Chicago, Illinois,70,170,3,4,51,127,1,12
+Jake Patton,26,Landscape Architect,Playa Vista, California,73,222,1,5,66,80,1,12
+Jonathan Hamilton,29,Technical Sales Rep,Vancouver, British Columbia,75,231,3,5,76,58,1,12
+Nick Sharp,26,Software Salesman,San Francisco, California,74,209,1,4,92,116,1,12
+Peter Medina,26,Staffing Agency Manager,Rockdale, Illinois,77,202,1,2,86,127,1,12
+Sal DeJulio,28,Operations Manager,Hubbard, Ohio,77,224,4,3,83,66,1,12
