@@ -28,8 +28,8 @@ def home():
     return render_template("index.html")
 
 # Query the database and send the jsonified results
-@app.route("/send", methods=["GET", "POST"])
-def send():
+@app.route("/sendbachelor", methods=["GET", "POST"])
+def sendbachelor():
     if request.method == "POST":
       name = request.form["Name"]
       age = request.form["Age"]
@@ -37,8 +37,9 @@ def send():
       hometown = request.form["Hometown"]
       state = request.form["State"]
       height = request.form["Height (Inches)"]
-      weight = request.form["Weight"]
-      hairColor = request.form["Hair Color"]
+      weight = request.form["weight"]
+      hairColor = request.form["hairColor"]
+      eyeColor = request.form["eyeColor"]
 
       #contestant = Contestant(name=name, lat=lat, lon=lon)
 
