@@ -39,7 +39,7 @@ $('#bachelor-form').hide();
     }
   });
 
-  $(".submit-form").on("click", function(e) {
+  $(".submit-form").one("click", function(e) {
     e.preventDefault();
     
     var formName = $(this).attr("data-form");
@@ -49,7 +49,9 @@ $('#bachelor-form').hide();
     } else {
       postForm("#bachelorette-form", "/bachelorette");
     }
-    
+
+  $("#result").after('<h2>You will be eliminated on <strong>week 6<strong>.<h2>');
+
   });
   
   //Post request to server
