@@ -1,4 +1,3 @@
-
 # import necessary libraries
 import numpy as np
 
@@ -28,21 +27,39 @@ def home():
     return render_template("index.html")
 
 # Query the database and send the jsonified results
-@app.route("/sendbachelor", methods=["GET", "POST"])
+@app.route("/bachelor", methods=["GET", "POST"])
 def sendbachelor():
     if request.method == "POST":
-      name = request.form["Name"]
-      age = request.form["Age"]
-      occupation = request.form["Occupation"]
-      hometown = request.form["Hometown"]
-      state = request.form["State"]
-      height = request.form["Height (Inches)"]
-      weight = request.form["weight"]
-      hairColor = request.form["hairColor"]
-      eyeColor = request.form["eyeColor"]
+    #   name = request.form.get("name")
+        response_data={"success": True}
+        request.get_data()
+        name = request.form.get("name")
+        age = request.form.get("age")
+        occupation = request.form.get("occupation")
+        hometown = request.form.get("hometown")
+        weight = request.form.get("weight")
+        eyecolor = request.form.get("eyeColor")
+        haircolor = request.form.get("hairColor")
 
-      #contestant = Contestant(name=name, lat=lat, lon=lon)
+        return jsonify(response_data)
 
-      return redirect("/", code=302)
+@app.route("/bachelor", methods=["GET", "POST"])
+def sendbachelorette():
+    if request.method == "POST":
+        response_data={"success": True}
+        request.get_data()
+        name = request.form.get("name")
+        age = request.form.get("age")
+        occupation = request.form.get("occupation")
+        hometown = request.form.get("hometown")
+        weight = request.form.get("weight")
+        eyecolor = request.form.get("eyeColor")
+        haircolor = request.form.get("hairColor")
+        pushups = request.form.get("pushups")
+        pullups = request.form.get("pullups")
 
-    return render_template("form.html")
+        return jsonify(response_data)
+
+if __name__ == "__main__":
+    app.debug=True
+    app.run()

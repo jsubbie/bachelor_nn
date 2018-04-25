@@ -30,13 +30,52 @@ $('#bachelor-form').hide();
     
     if (showPick === 'bachelor') {
       $('#bachelor-form').show("fadeIn", function() {
-        // Animation complete.
       });
       $('#bachelorette-form').hide();
     } else {
       $('#bachelor-form').hide();
-      $('#bachelorette-form').show("fadeUp", function() {
-        // Animation complete.
+      $('#bachelorette-form').show("fadeIn", function() {
       });
     }
   });
+
+  $(".submit-form").on("click", function(e) {
+    e.preventDefault();
+    
+    var formName = $(this).attr("data-form");
+    
+    if (formName === "bachelor") {
+      postForm("#bachelor-form", "/bachelor");
+    } else {
+      postForm("#bachelorette-form", "/bachelorette");
+    }
+    
+  });
+  
+  //Post request to server
+  function postForm(formId, queryUrl) {
+    console.log(formId)
+    
+    var contestantInfo = {
+      name: $(`${formId} [name="name"]`).val(),
+      age: $(`${formId} [name="age"]`).val(),
+      occupation: $(`${formId} [name="occupation"]`).val(),
+      hometown: $(`${formId} [name="hometown"]`).val(),
+      height: $(`${formId} [name="height"]`).val(),
+      weight: $(`${formId} [name="weight"]`).val(),
+      hairColor: $(`${formId} [name="hairColor"]`).val(),
+      eyeColor: $(`${formId} [name="eyeColor"]`).val()
+    }
+    
+    if (formId === "#bachelorette-form") {
+      contestantInfo.pushups = $(`${formId} [name="pushups"]`).val();
+      contestantInfo.pullups = $(`${formId} [name="pullups"]`).val();
+    }
+    
+    console.log(contestantInfo);
+    
+    $.post(queryUrl, contestantInfo)
+      .then(function(data) {
+      console.log(data)   
+     });
+  }
