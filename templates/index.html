@@ -11,7 +11,7 @@
   <title>The Bachelor Eliminator Predictor</title>
 
   <!-- Bootstrap core CSS -->
-  <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom fonts for this template -->
   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
@@ -49,138 +49,134 @@
 
               <div class="row">
                 <div class="col-12" id="bachelor-form">
-                    <form action="/sendbachelorette" method="POST">
-                      <div class="row form-group">
-                        <div class="col-xs-4 col-md-4">
-                          <input type="text" name="name" value="" class="form-control input-lg" placeholder="Name"> </div>
-                        <div class="col-xs-4 col-md-4">
-                          <input type="text" name="age" value="" class="form-control input-lg" placeholder="Age"> </div>
-                        <div class="col-xs-4 col-md-4">
-                          <label>
-                            Occupation:</label>
-                          <select name="occupation">
-                            <option>Service</option>
-                            <option>Corporate</option>
-                            <option>Entertainment</option>
-                            <option>Medicine</option>
-                            <option>Retail</option>
-                            <option>Entrepreneur</option>
-                            <option>Education</option>
-                            <option>Child Care</option>
-                          </select>
-                        </div>
+                  <div class="row form-group">
+                    <div class="col-xs-4 col-md-4">
+                      <input type="text" name="name" value="" class="form-control input-lg" placeholder="Name"> </div>
+                    <div class="col-xs-4 col-md-4">
+                      <input type="text" name="age" value="" class="form-control input-lg" placeholder="Age"> </div>
+                    <div class="col-xs-4 col-md-4">
+                      <label>
+                        Occupation:</label>
+                      <select name="occupation">
+                        <option value="1">Medicine</option>
+                        <option value="2">Education</option>
+                        <option value="3">Retail</option>
+                        <option value="3">Child Care</option>
+                        <option value="4">Corporate</option>
+                        <option value="5">Service</option>
+                        <option value="6">Entrepreneur</option>
+                        <option value="7">Entertainment</option>
+                      </select>
+                    </div>
+                  </div>
+
+                  <div class="row form-group">
+                    <div class="col-xs-4 col-md-4">
+                      <input type="text" name="hometown" value="" class="form-control input-lg" placeholder="Hometown">
+                    </div>
+                    <div class="col-xs-4 col-md-4">
+                      <input type="text" name="height" value="" class="form-control input-lg" placeholder="Height (In)">
+                    </div>
+                    <div class="col-xs-4 col-md-4">
+                      <input type="text" name="weight" value="" class="form-control input-lg" placeholder="Weight (In)">
+                    </div>
+                  </div>
+
+                  <div class="row form-group">
+                    <div class="col-xs-3 col-md-3">
+                    </div>
+                    <div class="col-xs-3 col-md-3">
+                      <label>Hair Color</label>
+                      <select name="hairColor">
+                        <option value="1">Black</option>
+                        <option value="2">Blonde</option>
+                        <option value="3">Brunette</option>
+                        <option value="4">Red</option>
+                      </select>
+                    </div>
+                    <div class="col-xs-3 col-md-3">
+                      <label>Eye Color</label>
+                      <select name="eyeColor">
+                        <option value="1">Blue</option>
+                        <option value="2">Brown</option>
+                        <option value="3">Green</option>
+                        <option value="4">Black</option>
+                      </select>
+                      <div class="col-xs-3 col-md-3">
                       </div>
-  
-                      <div class="row form-group">
-                        <div class="col-xs-4 col-md-4">
-                          <input type="text" name="hometown" value="" class="form-control input-lg" placeholder="Hometown">
-                        </div>
-                        <div class="col-xs-4 col-md-4">
-                          <input type="text" name="height" value="" class="form-control input-lg" placeholder="Height (In)">
-                        </div>
-                        <div class="col-xs-4 col-md-4">
-                          <input type="text" name="weight" value="" class="form-control input-lg" placeholder="Weight (In)">
-                        </div>
-                      </div>
-  
-                      <div class="row form-group">
-                          <div class="col-xs-3 col-md-3">
-                            </div>
-                        <div class="col-xs-3 col-md-3">
-                          <label>Hair Color</label>
-                          <select name="hairColor">
-                            <option>Blonde</option>
-                            <option>Black</option>
-                            <option>Brunette</option>
-                            <option>Red</option>
-                          </select>
-                        </div>
-                        <div class="col-xs-3 col-md-3">
-                          <label>Eye Color</label>
-                          <select name="eyeColor">
-                            <option>Blue</option>
-                            <option>Brown</option>
-                            <option>Green</option>
-                            <option>Black</option>
-                          </select>
-                          <div class="col-xs-3 col-md-3">
-                            </div>
-                        </div>
-                    
-                      </div>
-                      <div class="col-xs-12 col-md-12 form-group">
-                      <input type="submit" value="Submit">
-                      </div>
-  
-  
-                    </form>
+                    </div>
+
+                  </div>
+                  <div class="col-xs-12 col-md-12 form-group">
+                    <input type="submit" value="Submit" data-form="bachelor" class="submit-form">
+                  </div>
+
+
+                  </form>
                 </div>
                 <div class="col-12" id="bachelorette-form">
-                  <form action="/sendbachelorette" method="POST">
-                    <div class="row form-group">
-                      <div class="col-xs-4 col-md-4">
-                        <input type="text" name="name" value="" class="form-control input-lg" placeholder="Name"> </div>
-                      <div class="col-xs-4 col-md-4">
-                        <input type="text" name="age" value="" class="form-control input-lg" placeholder="Age"> </div>
-                      <div class="col-xs-4 col-md-4">
-                        <label>
-                          Occupation:</label>
-                        <select name="occupation">
-                          <option>Service</option>
-                          <option>Corporate</option>
-                          <option>Entertainment</option>
-                          <option>Medicine</option>
-                          <option>Retail</option>
-                          <option>Entrepreneur</option>
-                          <option>Education</option>
-                          <option>Child Care</option>
-                        </select>
-                      </div>
+                  <div class="row form-group">
+                    <div class="col-xs-4 col-md-4">
+                      <input type="text" name="name" value="" class="form-control input-lg" placeholder="Name"> </div>
+                    <div class="col-xs-4 col-md-4">
+                      <input type="text" name="age" value="" class="form-control input-lg" placeholder="Age"> </div>
+                    <div class="col-xs-4 col-md-4">
+                      <label>
+                        Occupation:</label>
+                      <select name="occupation">
+                        <option value="1">Medicine</option>
+                        <option value="2">Education</option>
+                        <option value="3">Retail</option>
+                        <option value="3">Child Care</option>
+                        <option value="4">Corporate</option>
+                        <option value="5">Service</option>
+                        <option value="6">Entrepreneur</option>
+                        <option value="7">Entertainment</option>
+                      </select>
                     </div>
+                  </div>
 
-                    <div class="row form-group">
-                      <div class="col-xs-4 col-md-4">
-                        <input type="text" name="hometown" value="" class="form-control input-lg" placeholder="Hometown">
-                      </div>
-                      <div class="col-xs-4 col-md-4">
-                        <input type="text" name="height" value="" class="form-control input-lg" placeholder="Height (In)">
-                      </div>
-                      <div class="col-xs-4 col-md-4">
-                        <input type="text" name="weight" value="" class="form-control input-lg" placeholder="Weight (In)">
-                      </div>
+                  <div class="row form-group">
+                    <div class="col-xs-4 col-md-4">
+                      <input type="text" name="hometown" value="" class="form-control input-lg" placeholder="Hometown">
                     </div>
-
-                    <div class="row form-group">
-                      <div class="col-xs-3 col-md-3">
-                        <label>Hair Color</label>
-                        <select name="hairColor">
-                          <option>Blonde</option>
-                          <option>Black</option>
-                          <option>Brunette</option>
-                          <option>Red</option>
-                        </select>
-                      </div>
-                      <div class="col-xs-3 col-md-3">
-                        <label>Eye Color</label>
-                        <select name="eyeColor">
-                          <option>Blue</option>
-                          <option>Brown</option>
-                          <option>Green</option>
-                          <option>Black</option>
-                        </select>
-                      </div>
-                      <div class="col-xs-3 col-md-3">
-                        <input type="text" name="pushups" value="" class="form-control input-lg" placeholder="Pushups">
-                      </div>
-                      <div class="col-xs-3 col-md-3">
-                        <input type="text" name="pullups" value="" class="form-control input-lg" placeholder="Pullups">
-                      </div>
+                    <div class="col-xs-4 col-md-4">
+                      <input type="text" name="height" value="" class="form-control input-lg" placeholder="Height (In)">
                     </div>
-                    <div class="col-xs-12 col-md-12 form-group">
-                    <input type="submit" value="Submit">
+                    <div class="col-xs-4 col-md-4">
+                      <input type="text" name="weight" value="" class="form-control input-lg" placeholder="Weight (In)">
                     </div>
+                  </div>
 
-
+                  <div class="row form-group">
+                    <div class="col-xs-3 col-md-3">
+                      <label>Hair Color</label>
+                      <select name="hairColor">
+                        <option value="1">Black</option>
+                        <option value="2">Blonde</option>
+                        <option value="3">Brunette</option>
+                        <option value="4">Red</option>
+                      </select>
+                    </div>
+                    <div class="col-xs-3 col-md-3">
+                      <label>Eye Color</label>
+                      <select name="eyeColor">
+                        <option value="1">Blue</option>
+                        <option value="2">Brown</option>
+                        <option value="3">Green</option>
+                        <option value="4">Black</option>
+                      </select>
+                    </div>
+                    <div class="col-xs-3 col-md-3">
+                      <input type="text" name="pushups" value="" class="form-control input-lg" placeholder="Pushups">
+                    </div>
+                    <div class="col-xs-3 col-md-3">
+                      <input type="text" name="pullups" value="" class="form-control input-lg" placeholder="Pullups">
+                    </div>
+                  </div>
+                  <div class="col-xs-12 col-md-12 form-group">
+                    <input type="submit" value="Submit" data-form="bachelorette" class="submit-form">
+                  </div>
                   </form>
                 </div>
               </div>
@@ -193,15 +189,12 @@
   </section>
 
 
-
-
-
   <!-- Bootstrap core JavaScript -->
-  <script src="../vendor/jquery/jquery.min.js"></script>
-  <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../static/vendor/jquery/jquery.min.js"></script>
+  <script src="../static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
   <!-- Plugin JavaScript -->
-  <script src="../vendor/jquery-easing/jquery.easing.min.js"></script>
+  <script src="../static/vendor/jquery-easing/jquery.easing.min.js"></script>
 
   <!-- Custom scripts for this template -->
   <script src="../static/js/index.js"></script>
